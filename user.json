@@ -28,6 +28,12 @@
             "subscription": "aimkillapk",
             "expiry": "2026-01-06",
             "used": false
+        },
+        {
+            "key": "AdiCheats-Owner",
+            "subscription": "aimkillapk",
+            "expiry": "2026-01-06",
+            "used": false
         }
     ]
 }
