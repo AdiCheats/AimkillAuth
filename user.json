@@ -1,6 +1,13 @@
 {
     "admin": [],
-    "licenses": [],
+    "licenses": [
+        {
+            "key": "AdiCheats-Owner",
+            "subscription": "aimkillapk",
+            "expiry": "2026-01-06",
+            "used": false
+        }
+    ],
     "credits": {
         "1219723803916107959": 5
     },
