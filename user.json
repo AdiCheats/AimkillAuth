@@ -13,10 +13,16 @@
             "subscription": "aimkillapk",
             "expiry": "2025-10-09",
             "used": false
+        },
+        {
+            "key": "AdiCheats-JJbupoRFOctUyM",
+            "subscription": "aimkillapk",
+            "expiry": "2025-09-30",
+            "used": false
         }
     ],
     "credits": {
-        "1219723803916107959": 5
+        "1219723803916107959": 4
     },
     "owner_id": 1354876648096272384
 }
