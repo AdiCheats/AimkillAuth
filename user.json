@@ -1,13 +1,5 @@
 {
-    "admin": [
-        {
-            "username": "Adi",
-            "password": "$2b$12$roK23W9feuDLldb89bB4Lu8vvkZ/fryMTebC5h5z7pdVpw5Xl2N3W",
-            "subscription": "aimkillapk",
-            "expiry": "2028-06-24",
-            "device_id": ""
-        }
-    ],
+    "admin": [],
     "licenses": [
         {
             "key": "7598a0d6f8653072",
