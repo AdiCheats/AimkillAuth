@@ -20,6 +20,12 @@
             "expiry": "2025-09-30",
             "used": true,
             "device_id": "b331fac851cea1c4"
+        },
+        {
+            "key": "AdiCheats-Owner2",
+            "subscription": "aimkillapk",
+            "expiry": "2026-01-07",
+            "used": false
         }
     ],
     "credits": {
