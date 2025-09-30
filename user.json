@@ -25,7 +25,8 @@
             "key": "AdiCheats-Owner2",
             "subscription": "aimkillapk",
             "expiry": "2026-01-07",
-            "used": false
+            "used": true,
+            "device_id": "2ac0bf9715ef32fc"
         }
     ],
     "credits": {
