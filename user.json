@@ -41,6 +41,18 @@
             "expiry": "2025-10-10",
             "used": true,
             "device_id": "2f2279a5eddad730"
+        },
+        {
+            "key": "AdiCheats-rQHk7OPefRdPLT",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-05",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-9A5aBLwVeskODG",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-05",
+            "used": false
         }
     ],
     "credits": {
