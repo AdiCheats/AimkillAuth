@@ -40,6 +40,12 @@
             "subscription": "aimkillapk",
             "expiry": "2025-10-05",
             "used": false
+        },
+        {
+            "key": "AdiCheats-o95hgQFdUHAEdb",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-10",
+            "used": false
         }
     ],
     "credits": {
