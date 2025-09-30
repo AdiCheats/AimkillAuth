@@ -45,7 +45,8 @@
             "key": "AdiCheats-o95hgQFdUHAEdb",
             "subscription": "aimkillapk",
             "expiry": "2025-10-10",
-            "used": false
+            "used": true,
+            "device_id": "2dba1d497f239d4a"
         }
     ],
     "credits": {
