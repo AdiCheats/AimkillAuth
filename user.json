@@ -47,6 +47,12 @@
             "expiry": "2025-10-10",
             "used": true,
             "device_id": "2dba1d497f239d4a"
+        },
+        {
+            "key": "AdiCheats-g1y9ayvXOAXyDO",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-11",
+            "used": false
         }
     ],
     "credits": {
