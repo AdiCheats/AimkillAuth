@@ -66,6 +66,12 @@
             "subscription": "aimkillapk",
             "expiry": "2025-10-18",
             "used": false
+        },
+        {
+            "key": "AdiCheats-bDelZFHcGMdOvB",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-18",
+            "used": false
         }
     ],
     "credits": {
