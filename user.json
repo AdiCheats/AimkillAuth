@@ -73,6 +73,30 @@
             "expiry": "2025-10-18",
             "used": true,
             "device_id": "5732f93e263b7166"
+        },
+        {
+            "key": "AdiCheats-89dNL8wnQfOpuc",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-bVrPPRrsYTKQNy",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-CGixz1U9mGgFjE",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-U2Vx4KOUOCyX25",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
         }
     ],
     "credits": {
