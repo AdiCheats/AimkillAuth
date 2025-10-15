@@ -179,5 +179,15 @@
     "credits": {
         "1219723803916107959": 2
     },
-    "owner_id": 1354876648096272384
+    "owner_id": 1354876648096272384,
+    "subscriptions": {
+        "Aimkill": {
+            "type": "license",
+            "channel_ids": [
+                1422258742535393350
+            ],
+            "licenses": [],
+            "users": []
+        }
+    }
 }
