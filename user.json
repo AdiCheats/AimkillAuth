@@ -168,6 +168,12 @@
             "expiry": "2025-10-16",
             "used": true,
             "device_id": "50031ef062d63558"
+        },
+        {
+            "key": "AdiCheats-UvjLfUgq5sElsA",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": false
         }
     ],
     "credits": {
