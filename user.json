@@ -188,6 +188,14 @@
             ],
             "licenses": [],
             "users": []
+        },
+        "Internal": {
+            "type": "userpass",
+            "channel_ids": [
+                1428146715327860747
+            ],
+            "licenses": null,
+            "users": []
         }
     }
 }
