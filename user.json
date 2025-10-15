@@ -161,10 +161,16 @@
             "expiry": "2025-10-16",
             "used": true,
             "device_id": "fee98a7be9843d18"
+        },
+        {
+            "key": "AdiCheats-sUOl9PWkno7hjk",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": false
         }
     ],
     "credits": {
-        "1219723803916107959": 3
+        "1219723803916107959": 2
     },
     "owner_id": 1354876648096272384
 }
