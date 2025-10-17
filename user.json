@@ -183,10 +183,78 @@
       "device_id": "aa90d3a48a6bae2d"
     }
   ],
-  "credits": {
-    "1219723803916107959": 2
-  },
-  "owner_id": 1354876648096272400,
+  "users": [],
+  "applications": [
+    {
+      "id": 1760672985811,
+      "userId": "adicheatsontop@gmail.com",
+      "name": "AdiCheats New",
+      "description": null,
+      "apiKey": "SmwDybQalnOzQyinmVEbpheHELJaM7Qz",
+      "isActive": true,
+      "version": null,
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": false,
+      "createdAt": "2025-10-17T03:49:45.811Z",
+      "updatedAt": "2025-10-17T03:49:45.811Z"
+    }
+  ],
+  "appUsers": [
+    {
+      "id": 1760669013554,
+      "applicationId": 1760663974487,
+      "username": "Naya user ha bhaii",
+      "password": "$2b$10$RerWGqfHB6beGkGyfgHh9ui7HY7TwZHoDpzk8s74tc5zUtnqAtnfG",
+      "email": null,
+      "hwid": null,
+      "licenseKey": null,
+      "expiresAt": "2025-10-23T21:13:00.000Z",
+      "isActive": true,
+      "isPaused": false,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-17T02:43:33.554Z",
+      "updatedAt": "2025-10-17T03:30:37.560Z"
+    },
+    {
+      "id": 1760673019257,
+      "applicationId": 1760672985811,
+      "username": "Adi",
+      "password": "$2b$10$MkAwnSJ91BsTIgyPnokb5.OAxI3eOa05PnoRJanZEz/3BjUNyC6ka",
+      "email": null,
+      "hwid": null,
+      "licenseKey": null,
+      "expiresAt": "2025-10-23T22:20:00.000Z",
+      "isActive": false,
+      "isPaused": true,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-17T03:50:19.257Z",
+      "updatedAt": "2025-10-17T05:49:52.504Z"
+    }
+  ],
+  "licenseKeys": [
+    {
+      "id": 1760663974488,
+      "applicationId": 1760663974487,
+      "name": "aimkillapk",
+      "description": "Default subscription for Adii",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-17T01:19:34.487Z",
+      "isActive": true,
+      "createdAt": "2025-10-17T01:19:34.488Z",
+      "updatedAt": "2025-10-17T01:19:34.488Z"
+    }
+  ],
   "subscriptions": [
     {
       "id": 1760672531993,
@@ -215,81 +283,14 @@
       "updatedAt": "2025-10-17T03:49:45.811Z"
     }
   ],
-  "applications": [
-    {
-      "id": 1760672985811,
-      "userId": "adicheatsontop@gmail.com",
-      "name": "AdiCheats New",
-      "description": null,
-      "apiKey": "SmwDybQalnOzQyinmVEbpheHELJaM7Qz",
-      "isActive": true,
-      "version": null,
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": false,
-      "createdAt": "2025-10-17T03:49:45.811Z",
-      "updatedAt": "2025-10-17T03:49:45.811Z"
-    }
-  ],
-  "licenseKeys": [
-    {
-      "id": 1760663974488,
-      "applicationId": 1760663974487,
-      "name": "aimkillapk",
-      "description": "Default subscription for Adii",
-      "maxUsers": 1000,
-      "currentUsers": 0,
-      "validityDays": 365,
-      "expiresAt": "2026-10-17T01:19:34.487Z",
-      "isActive": true,
-      "createdAt": "2025-10-17T01:19:34.488Z",
-      "updatedAt": "2025-10-17T01:19:34.488Z"
-    }
-  ],
-  "metadata": {
-    "lastUpdated": "2025-10-17T03:50:19.257Z",
-    "version": "1.0.0"
+  "webhooks": [],
+  "blacklistEntries": [],
+  "activityLogs": [],
+  "activeSessions": [],
+  "credits": {
+    "1219723803916107959": 2
   },
-  "appUsers": [
-    {
-      "id": 1760669013554,
-      "applicationId": 1760663974487,
-      "username": "Naya user ha bhaii",
-      "password": "$2b$10$RerWGqfHB6beGkGyfgHh9ui7HY7TwZHoDpzk8s74tc5zUtnqAtnfG",
-      "email": null,
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-23T21:13:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-17T02:43:33.554Z",
-      "updatedAt": "2025-10-17T03:30:37.560Z"
-    },
-    {
-      "id": 1760673019257,
-      "applicationId": 1760672985811,
-      "username": "Adi",
-      "password": "$2b$10$MkAwnSJ91BsTIgyPnokb5.OAxI3eOa05PnoRJanZEz/3BjUNyC6ka",
-      "email": null,
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-23T22:20:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-17T03:50:19.257Z",
-      "updatedAt": "2025-10-17T03:50:19.257Z"
-    }
-  ],
+  "owner_id": 1354876648096272400,
   "customMessages": {
     "loginSuccess": "Login successful! Welcome back.",
     "loginFailed": "Invalid username or password. Please try again.",
@@ -297,5 +298,9 @@
     "accountExpired": "Your account has expired. Please renew your subscription.",
     "versionMismatch": "Your application version is outdated. Please update to continue.",
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
+  },
+  "metadata": {
+    "lastUpdated": "2025-10-17T05:49:52.504Z",
+    "version": "1.0.0"
   }
 }
