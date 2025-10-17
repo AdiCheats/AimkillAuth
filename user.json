@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-17T02:36:26.510Z",
+    "lastUpdated": "2025-10-17T02:36:41.826Z",
     "version": "1.0.0"
   },
   "appUsers": [
@@ -238,12 +238,12 @@
       "licenseKey": null,
       "expiresAt": "2025-10-25T02:07:00.000Z",
       "isActive": true,
-      "isPaused": true,
+      "isPaused": false,
       "loginAttempts": 0,
       "lastLogin": null,
       "lastLoginAttempt": null,
       "createdAt": "2025-10-17T02:07:46.816Z",
-      "updatedAt": "2025-10-17T02:36:26.510Z"
+      "updatedAt": "2025-10-17T02:36:41.826Z"
     },
     {
       "id": 1760666998018,
