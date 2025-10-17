@@ -202,24 +202,6 @@
       "hwidLockEnabled": false,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760728674691,
-      "userId": "adicheatsontop@gmail@gmail.com",
-      "name": "AdiCheats",
-      "description": null,
-      "apiKey": "_8nKDnzbWPh-AfpT-F-S7H0Q0IRjqUyl",
-      "isActive": true,
-      "version": "1.0",
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-10-17T19:17:54.691Z",
-      "updatedAt": "2025-10-17T19:17:54.691Z"
     }
   ],
   "appUsers": [
@@ -256,24 +238,6 @@
       "lastLoginAttempt": null,
       "createdAt": "2025-10-17T03:50:19.257Z",
       "updatedAt": "2025-10-17T05:49:56.542Z"
-    },
-    {
-      "id": 1760729218757,
-      "applicationId": 1760728674691,
-      "username": "Aditya",
-      "password": "$2b$10$vGk2TNmUBiHx0szn6bs7s.RNiyq7TKyjqCgpZ2O8dhTjUhk/yemIG",
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-11-16T19:26:58.757Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": null,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-17T19:26:58.757Z",
-      "updatedAt": "2025-10-17T19:26:58.757Z"
     }
   ],
   "licenseKeys": [
@@ -317,19 +281,6 @@
       "isActive": true,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760728674692,
-      "applicationId": 1760728674691,
-      "name": "aimkillapk",
-      "description": "Default subscription for AdiCheats",
-      "maxUsers": 1000,
-      "currentUsers": 1,
-      "validityDays": 365,
-      "expiresAt": "2026-10-17T19:17:54.691Z",
-      "isActive": true,
-      "createdAt": "2025-10-17T19:17:54.691Z",
-      "updatedAt": "2025-10-17T19:17:54.691Z"
     }
   ],
   "webhooks": [],
@@ -349,7 +300,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-17T19:26:58.757Z",
+    "lastUpdated": "2025-10-17T21:00:11.802Z",
     "version": "1.0.0"
   }
 }
