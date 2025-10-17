@@ -224,27 +224,10 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-17T02:36:41.826Z",
+    "lastUpdated": "2025-10-17T02:36:56.314Z",
     "version": "1.0.0"
   },
   "appUsers": [
-    {
-      "id": 1760666866816,
-      "applicationId": 1760663974487,
-      "username": "NayaUser",
-      "password": "$2b$10$ggtbEP5fWOZ8DANDatZOAOJfG8kRf5JGGuVFiHn925xaT7mWAoeNW",
-      "email": null,
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-25T02:07:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-17T02:07:46.816Z",
-      "updatedAt": "2025-10-17T02:36:41.826Z"
-    },
     {
       "id": 1760666998018,
       "applicationId": 1760663974487,
