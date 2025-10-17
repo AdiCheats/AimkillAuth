@@ -187,24 +187,7 @@
     "1219723803916107959": 2
   },
   "owner_id": 1354876648096272400,
-  "subscriptions": {
-    "Aimkill": {
-      "type": "license",
-      "channel_ids": [
-        1422258742535393300
-      ],
-      "licenses": [],
-      "users": []
-    },
-    "Internal": {
-      "type": "userpass",
-      "channel_ids": [
-        1428146715327860700
-      ],
-      "licenses": null,
-      "users": []
-    }
-  },
+  "subscriptions": [],
   "applications": [
     {
       "id": 1760663974487,
@@ -241,7 +224,26 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-17T01:19:34.488Z",
+    "lastUpdated": "2025-10-17T01:48:23.418Z",
     "version": "1.0.0"
-  }
+  },
+  "appUsers": [
+    {
+      "id": 1760665703418,
+      "applicationId": 1760663974487,
+      "username": "Aditya",
+      "password": "$2b$10$R5L0uI4OIFX6Bv5tWAULOOwqFjtvkIgt65e6hd/u5gvzro7kb/F/.",
+      "email": null,
+      "hwid": null,
+      "licenseKey": null,
+      "expiresAt": "2099-09-20T16:52:00.000Z",
+      "isActive": true,
+      "isPaused": false,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-17T01:48:23.418Z",
+      "updatedAt": "2025-10-17T01:48:23.418Z"
+    }
+  ]
 }
