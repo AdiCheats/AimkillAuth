@@ -224,28 +224,10 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-17T02:36:56.314Z",
+    "lastUpdated": "2025-10-17T02:37:02.680Z",
     "version": "1.0.0"
   },
-  "appUsers": [
-    {
-      "id": 1760666998018,
-      "applicationId": 1760663974487,
-      "username": "SabseNaya",
-      "password": "$2b$10$EMh0SrELpAoajAdiKGeK.eUP9ojWh9NigsGje697YroetrJeBka8W",
-      "email": null,
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "9999-09-09T00:29:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-17T02:09:58.018Z",
-      "updatedAt": "2025-10-17T02:09:58.018Z"
-    }
-  ],
+  "appUsers": [],
   "customMessages": {
     "loginSuccess": "Login successful! Welcome back.",
     "loginFailed": "Invalid username or password. Please try again.",
