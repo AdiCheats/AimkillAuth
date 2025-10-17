@@ -350,6 +350,18 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
       "metadata": {},
       "createdAt": "2025-10-17T21:21:24.846Z"
+    },
+    {
+      "id": 1760736326440,
+      "applicationId": 1760735827941,
+      "appUserId": null,
+      "event": "login_failed",
+      "success": false,
+      "errorMessage": "Invalid password",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "metadata": {},
+      "createdAt": "2025-10-17T21:25:26.440Z"
     }
   ],
   "activeSessions": [],
@@ -366,7 +378,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-17T21:21:24.846Z",
+    "lastUpdated": "2025-10-17T21:25:26.440Z",
     "version": "1.0.0"
   }
 }
