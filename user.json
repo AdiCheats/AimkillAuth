@@ -224,7 +224,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-17T02:07:46.816Z",
+    "lastUpdated": "2025-10-17T02:09:58.018Z",
     "version": "1.0.0"
   },
   "appUsers": [
@@ -244,6 +244,23 @@
       "lastLoginAttempt": null,
       "createdAt": "2025-10-17T02:07:46.816Z",
       "updatedAt": "2025-10-17T02:07:46.816Z"
+    },
+    {
+      "id": 1760666998018,
+      "applicationId": 1760663974487,
+      "username": "SabseNaya",
+      "password": "$2b$10$EMh0SrELpAoajAdiKGeK.eUP9ojWh9NigsGje697YroetrJeBka8W",
+      "email": null,
+      "hwid": null,
+      "licenseKey": null,
+      "expiresAt": "9999-09-09T00:29:00.000Z",
+      "isActive": true,
+      "isPaused": false,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-17T02:09:58.018Z",
+      "updatedAt": "2025-10-17T02:09:58.018Z"
     }
   ],
   "customMessages": {
