@@ -202,26 +202,7 @@
       "updatedAt": "2025-10-17T03:42:11.992Z"
     }
   ],
-  "applications": [
-    {
-      "id": 1760672531992,
-      "userId": "adicheatsontop@gmail.com",
-      "name": "AdiCheats",
-      "description": null,
-      "apiKey": "aHPJ-dbsdib5OVQRbs9Y6GjhYarooVq8",
-      "isActive": true,
-      "version": null,
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": false,
-      "createdAt": "2025-10-17T03:42:11.992Z",
-      "updatedAt": "2025-10-17T03:42:11.992Z"
-    }
-  ],
+  "applications": [],
   "licenseKeys": [
     {
       "id": 1760663974488,
@@ -238,7 +219,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-17T03:42:11.992Z",
+    "lastUpdated": "2025-10-17T03:49:34.986Z",
     "version": "1.0.0"
   },
   "appUsers": [
