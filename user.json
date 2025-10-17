@@ -202,6 +202,24 @@
       "hwidLockEnabled": false,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
+    },
+    {
+      "id": 1760735827941,
+      "userId": "adicheatsontop@gmail@gmail.com",
+      "name": "AdiCheats",
+      "description": null,
+      "apiKey": "12ueUc2vAvkUXx0-8PZYRAOhpWl5V-w3",
+      "isActive": true,
+      "version": "1.0",
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-10-17T21:17:07.941Z",
+      "updatedAt": "2025-10-17T21:17:07.941Z"
     }
   ],
   "appUsers": [
@@ -281,6 +299,19 @@
       "isActive": true,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
+    },
+    {
+      "id": 1760735827942,
+      "applicationId": 1760735827941,
+      "name": "aimkillapk",
+      "description": "Default subscription for AdiCheats",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-17T21:17:07.941Z",
+      "isActive": true,
+      "createdAt": "2025-10-17T21:17:07.941Z",
+      "updatedAt": "2025-10-17T21:17:07.941Z"
     }
   ],
   "webhooks": [],
@@ -300,7 +331,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-17T21:03:08.721Z",
+    "lastUpdated": "2025-10-17T21:17:07.941Z",
     "version": "1.0.0"
   }
 }
