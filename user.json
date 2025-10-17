@@ -224,10 +224,28 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-10-17T02:37:02.680Z",
+    "lastUpdated": "2025-10-17T02:43:33.554Z",
     "version": "1.0.0"
   },
-  "appUsers": [],
+  "appUsers": [
+    {
+      "id": 1760669013554,
+      "applicationId": 1760663974487,
+      "username": "Naya user ha bhaii",
+      "password": "$2b$10$RerWGqfHB6beGkGyfgHh9ui7HY7TwZHoDpzk8s74tc5zUtnqAtnfG",
+      "email": null,
+      "hwid": null,
+      "licenseKey": null,
+      "expiresAt": "2025-10-23T21:13:00.000Z",
+      "isActive": true,
+      "isPaused": false,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-17T02:43:33.554Z",
+      "updatedAt": "2025-10-17T02:43:33.554Z"
+    }
+  ],
   "customMessages": {
     "loginSuccess": "Login successful! Welcome back.",
     "loginFailed": "Invalid username or password. Please try again.",
