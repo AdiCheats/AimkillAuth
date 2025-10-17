@@ -1,208 +1,247 @@
 {
-    "admin": [],
-    "licenses": [
-        {
-            "key": "AdiCheats-Owner",
-            "subscription": "aimkillapk",
-            "expiry": "2026-01-06",
-            "used": true,
-            "device_id": "9e68f5ac5d44b691"
-        },
-        {
-            "key": "AdiCheats-4FRP4VJKZ29euo",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-09",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-JJbupoRFOctUyM",
-            "subscription": "aimkillapk",
-            "expiry": "2025-09-30",
-            "used": true,
-            "device_id": "b331fac851cea1c4"
-        },
-        {
-            "key": "AdiCheats-Owner2",
-            "subscription": "aimkillapk",
-            "expiry": "2026-01-07",
-            "used": true,
-            "device_id": "2ac0bf9715ef32fc"
-        },
-        {
-            "key": "AdiCheats-SOjE81aDWEle70",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-10",
-            "used": true,
-            "device_id": "2f2279a5eddad730"
-        },
-        {
-            "key": "AdiCheats-9A5aBLwVeskODG",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-05",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-o95hgQFdUHAEdb",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-10",
-            "used": true,
-            "device_id": "2dba1d497f239d4a"
-        },
-        {
-            "key": "AdiCheats-g1y9ayvXOAXyDO",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-11",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-czSP26jnD7SgFA",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-02",
-            "used": true,
-            "device_id": "d79e0e91533882b1"
-        },
-        {
-            "key": "AdiCheats-b04NuJoY16H9L0",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-18",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-bDelZFHcGMdOvB",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-18",
-            "used": true,
-            "device_id": "5732f93e263b7166"
-        },
-        {
-            "key": "AdiCheats-89dNL8wnQfOpuc",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-bVrPPRrsYTKQNy",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-CGixz1U9mGgFjE",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-U2Vx4KOUOCyX25",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-8eGLz6KzjoBJi3",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-ttcfkeoPzNJORA",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-AdEIho6OzRdjjD",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-eAIPCmpTKZ3Fco",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-15",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-xZ29aozZ8reN7S",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": true,
-            "device_id": "bdf474642d51c909"
-        },
-        {
-            "key": "AdiCheats-eNZsApW9J1s2x7",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-eEoVI6hDme0wvl",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": true,
-            "device_id": "cd076ea88d5cefde"
-        },
-        {
-            "key": "AdiCheats-FuL3agt2NGHlbq",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-PVZAavhGc3m947",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": true,
-            "device_id": "48355fe585fee0c6"
-        },
-        {
-            "key": "AdiCheats-0IlunYHyD3iarK",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": true,
-            "device_id": "fee98a7be9843d18"
-        },
-        {
-            "key": "AdiCheats-sUOl9PWkno7hjk",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": true,
-            "device_id": "50031ef062d63558"
-        },
-        {
-            "key": "AdiCheats-UvjLfUgq5sElsA",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-16",
-            "used": false
-        },
-        {
-            "key": "AdiCheats-2GEfGwGTjPTmGs",
-            "subscription": "aimkillapk",
-            "expiry": "2025-10-17",
-            "used": true,
-            "device_id": "aa90d3a48a6bae2d"
-        }
-    ],
-    "credits": {
-        "1219723803916107959": 2
+  "admin": [],
+  "licenses": [
+    {
+      "key": "AdiCheats-Owner",
+      "subscription": "aimkillapk",
+      "expiry": "2026-01-06",
+      "used": true,
+      "device_id": "9e68f5ac5d44b691"
     },
-    "owner_id": 1354876648096272384,
-    "subscriptions": {
-        "Aimkill": {
-            "type": "license",
-            "channel_ids": [
-                1422258742535393350
-            ],
-            "licenses": [],
-            "users": []
-        },
-        "Internal": {
-            "type": "userpass",
-            "channel_ids": [
-                1428146715327860747
-            ],
-            "licenses": null,
-            "users": []
-        }
+    {
+      "key": "AdiCheats-4FRP4VJKZ29euo",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-09",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-JJbupoRFOctUyM",
+      "subscription": "aimkillapk",
+      "expiry": "2025-09-30",
+      "used": true,
+      "device_id": "b331fac851cea1c4"
+    },
+    {
+      "key": "AdiCheats-Owner2",
+      "subscription": "aimkillapk",
+      "expiry": "2026-01-07",
+      "used": true,
+      "device_id": "2ac0bf9715ef32fc"
+    },
+    {
+      "key": "AdiCheats-SOjE81aDWEle70",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-10",
+      "used": true,
+      "device_id": "2f2279a5eddad730"
+    },
+    {
+      "key": "AdiCheats-9A5aBLwVeskODG",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-05",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-o95hgQFdUHAEdb",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-10",
+      "used": true,
+      "device_id": "2dba1d497f239d4a"
+    },
+    {
+      "key": "AdiCheats-g1y9ayvXOAXyDO",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-11",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-czSP26jnD7SgFA",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-02",
+      "used": true,
+      "device_id": "d79e0e91533882b1"
+    },
+    {
+      "key": "AdiCheats-b04NuJoY16H9L0",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-18",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-bDelZFHcGMdOvB",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-18",
+      "used": true,
+      "device_id": "5732f93e263b7166"
+    },
+    {
+      "key": "AdiCheats-89dNL8wnQfOpuc",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-bVrPPRrsYTKQNy",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-CGixz1U9mGgFjE",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-U2Vx4KOUOCyX25",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-8eGLz6KzjoBJi3",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-ttcfkeoPzNJORA",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-AdEIho6OzRdjjD",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-eAIPCmpTKZ3Fco",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-15",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-xZ29aozZ8reN7S",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": true,
+      "device_id": "bdf474642d51c909"
+    },
+    {
+      "key": "AdiCheats-eNZsApW9J1s2x7",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-eEoVI6hDme0wvl",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": true,
+      "device_id": "cd076ea88d5cefde"
+    },
+    {
+      "key": "AdiCheats-FuL3agt2NGHlbq",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-PVZAavhGc3m947",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": true,
+      "device_id": "48355fe585fee0c6"
+    },
+    {
+      "key": "AdiCheats-0IlunYHyD3iarK",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": true,
+      "device_id": "fee98a7be9843d18"
+    },
+    {
+      "key": "AdiCheats-sUOl9PWkno7hjk",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": true,
+      "device_id": "50031ef062d63558"
+    },
+    {
+      "key": "AdiCheats-UvjLfUgq5sElsA",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-16",
+      "used": false
+    },
+    {
+      "key": "AdiCheats-2GEfGwGTjPTmGs",
+      "subscription": "aimkillapk",
+      "expiry": "2025-10-17",
+      "used": true,
+      "device_id": "aa90d3a48a6bae2d"
     }
+  ],
+  "credits": {
+    "1219723803916107959": 2
+  },
+  "owner_id": 1354876648096272400,
+  "subscriptions": {
+    "Aimkill": {
+      "type": "license",
+      "channel_ids": [
+        1422258742535393300
+      ],
+      "licenses": [],
+      "users": []
+    },
+    "Internal": {
+      "type": "userpass",
+      "channel_ids": [
+        1428146715327860700
+      ],
+      "licenses": null,
+      "users": []
+    }
+  },
+  "applications": [
+    {
+      "id": 1760663974487,
+      "userId": "adicheatsontop@gmail.com",
+      "name": "Adii",
+      "description": null,
+      "apiKey": "s6lkdXcaa5BXs7EErIBDdnzHGDoPhY6E",
+      "isActive": true,
+      "version": null,
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": false,
+      "createdAt": "2025-10-17T01:19:34.487Z",
+      "updatedAt": "2025-10-17T01:19:34.487Z"
+    }
+  ],
+  "licenseKeys": [
+    {
+      "id": 1760663974488,
+      "applicationId": 1760663974487,
+      "name": "aimkillapk",
+      "description": "Default subscription for Adii",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-17T01:19:34.487Z",
+      "isActive": true,
+      "createdAt": "2025-10-17T01:19:34.488Z",
+      "updatedAt": "2025-10-17T01:19:34.488Z"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-10-17T01:19:34.488Z",
+    "version": "1.0.0"
+  }
 }
