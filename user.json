@@ -332,7 +332,29 @@
       "updatedAt": "2025-10-18T05:34:53.623Z"
     }
   ],
-  "webhooks": [],
+  "webhooks": [
+    {
+      "id": 1760765774972,
+      "userId": "adicheatsontop@gmail@gmail.com",
+      "url": "https://discord.com/api/webhooks/1428827132452405259/uKfu-5Jxk5lFYtpcdH0b3z3mkK2wQsylme96Nw-BlJZCyKJtU2fkUqbIHTIHE1Pwd1Qn",
+      "events": [
+        "user_login",
+        "login_failed",
+        "account_expired",
+        "hwid_mismatch",
+        "login_blocked_username",
+        "user_register",
+        "account_disabled",
+        "version_mismatch",
+        "login_blocked_ip",
+        "login_blocked_hwid"
+      ],
+      "isActive": true,
+      "secret": null,
+      "createdAt": "2025-10-18T05:36:14.972Z",
+      "updatedAt": "2025-10-18T05:36:14.972Z"
+    }
+  ],
   "blacklistEntries": [],
   "activityLogs": [],
   "activeSessions": [],
@@ -349,7 +371,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-18T05:35:27.720Z",
+    "lastUpdated": "2025-10-18T05:36:14.972Z",
     "version": "1.0.0"
   }
 }
