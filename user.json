@@ -307,6 +307,19 @@
       "isActive": true,
       "createdAt": "2025-10-17T01:19:34.488Z",
       "updatedAt": "2025-10-17T01:19:34.488Z"
+    },
+    {
+      "id": 1760764672647,
+      "applicationId": 1760764065689,
+      "licenseKey": "BRUT-aL0ThO-E-uyGGugZm-EH-HLVbJ",
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2025-11-17T05:17:52.647Z",
+      "description": null,
+      "isActive": true,
+      "createdAt": "2025-10-18T05:17:52.647Z",
+      "updatedAt": "2025-10-18T05:17:52.647Z"
     }
   ],
   "subscriptions": [
@@ -402,7 +415,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-18T05:11:28.217Z",
+    "lastUpdated": "2025-10-18T05:17:52.647Z",
     "version": "1.0.0"
   }
 }
