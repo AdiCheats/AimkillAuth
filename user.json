@@ -202,24 +202,6 @@
       "hwidLockEnabled": false,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760764065689,
-      "userId": "adicheatsontop@gmail@gmail.com",
-      "name": "Brutal Panel",
-      "description": null,
-      "apiKey": "84n8mxActKKd50GeOx3xh0DMRwkr9GFE",
-      "isActive": true,
-      "version": "1.0",
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-10-18T05:07:45.689Z",
-      "updatedAt": "2025-10-18T05:07:45.689Z"
     }
   ],
   "appUsers": [
@@ -256,42 +238,6 @@
       "lastLoginAttempt": null,
       "createdAt": "2025-10-17T03:50:19.257Z",
       "updatedAt": "2025-10-17T05:49:56.542Z"
-    },
-    {
-      "id": 1760764171281,
-      "applicationId": 1760764065689,
-      "username": "Adi",
-      "password": "$2b$10$OYWD7wwrTlPlKr0l3Z5fkeu5RHfGgSfenBYOn3D.HSgAeiqo/0Rk6",
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-25T12:09:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": null,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-18T05:09:31.281Z",
-      "updatedAt": "2025-10-18T05:09:31.281Z"
-    },
-    {
-      "id": 1760764198952,
-      "applicationId": 1760764065689,
-      "username": "Adi2",
-      "password": "$2b$10$s8FQvsvWqlaH9YMxU21dQuLSQA1uRKr173v8Q4TobdpM73rY4q7.m",
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-25T12:09:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": null,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-18T05:09:58.952Z",
-      "updatedAt": "2025-10-18T05:09:58.952Z"
     }
   ],
   "licenseKeys": [
@@ -307,19 +253,6 @@
       "isActive": true,
       "createdAt": "2025-10-17T01:19:34.488Z",
       "updatedAt": "2025-10-17T01:19:34.488Z"
-    },
-    {
-      "id": 1760764672647,
-      "applicationId": 1760764065689,
-      "licenseKey": "BRUT-aL0ThO-E-uyGGugZm-EH-HLVbJ",
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 30,
-      "expiresAt": "2025-11-17T05:17:52.647Z",
-      "description": null,
-      "isActive": true,
-      "createdAt": "2025-10-18T05:17:52.647Z",
-      "updatedAt": "2025-10-18T05:17:52.647Z"
     }
   ],
   "subscriptions": [
@@ -348,59 +281,11 @@
       "isActive": true,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760764065690,
-      "applicationId": 1760764065689,
-      "name": "aimkillapk",
-      "description": "Default subscription for Brutal Panel",
-      "maxUsers": 1000,
-      "currentUsers": 3,
-      "validityDays": 365,
-      "expiresAt": "2026-10-18T05:07:45.689Z",
-      "isActive": true,
-      "createdAt": "2025-10-18T05:07:45.689Z",
-      "updatedAt": "2025-10-18T05:07:45.689Z"
     }
   ],
-  "webhooks": [
-    {
-      "id": 1760764276097,
-      "userId": "adicheatsontop@gmail@gmail.com",
-      "url": "https://discord.com/api/webhooks/1428827132452405259/uKfu-5Jxk5lFYtpcdH0b3z3mkK2wQsylme96Nw-BlJZCyKJtU2fkUqbIHTIHE1Pwd1Qn",
-      "events": [
-        "user_login",
-        "login_failed",
-        "account_expired",
-        "hwid_mismatch",
-        "login_blocked_username",
-        "user_register",
-        "account_disabled",
-        "version_mismatch",
-        "login_blocked_ip",
-        "login_blocked_hwid"
-      ],
-      "isActive": true,
-      "secret": null,
-      "createdAt": "2025-10-18T05:11:16.097Z",
-      "updatedAt": "2025-10-18T05:11:16.097Z"
-    }
-  ],
+  "webhooks": [],
   "blacklistEntries": [],
-  "activityLogs": [
-    {
-      "id": 1760764288217,
-      "applicationId": 1760764065689,
-      "appUserId": null,
-      "event": "user_register",
-      "success": true,
-      "errorMessage": null,
-      "ipAddress": "::ffff:127.0.0.1",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-      "metadata": {},
-      "createdAt": "2025-10-18T05:11:28.217Z"
-    }
-  ],
+  "activityLogs": [],
   "activeSessions": [],
   "credits": {
     "1219723803916107959": 2
@@ -415,7 +300,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-18T05:17:52.647Z",
+    "lastUpdated": "2025-10-18T05:34:44.346Z",
     "version": "1.0.0"
   }
 }
