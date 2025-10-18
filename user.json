@@ -202,24 +202,6 @@
       "hwidLockEnabled": false,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760765693623,
-      "userId": "adicheatsontop@gmail@gmail.com",
-      "name": "AdiXCheats",
-      "description": null,
-      "apiKey": "jOfkmayOdziVRErQgpk8F2iT5zp4WaCr",
-      "isActive": true,
-      "version": "1.0",
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-10-18T05:34:53.623Z",
-      "updatedAt": "2025-10-18T05:34:53.623Z"
     }
   ],
   "appUsers": [
@@ -256,24 +238,6 @@
       "lastLoginAttempt": null,
       "createdAt": "2025-10-17T03:50:19.257Z",
       "updatedAt": "2025-10-17T05:49:56.542Z"
-    },
-    {
-      "id": 1760765727720,
-      "applicationId": 1760765693623,
-      "username": "Armankichut",
-      "password": "$2b$10$dUyrUvzi/XiBPJyYquT83e5L5QpwoEov8NG9FT2G6W3tnQPJHr4ii",
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-25T12:35:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": null,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-18T05:35:27.720Z",
-      "updatedAt": "2025-10-18T05:35:27.720Z"
     }
   ],
   "licenseKeys": [
@@ -317,59 +281,11 @@
       "isActive": true,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760765693624,
-      "applicationId": 1760765693623,
-      "name": "aimkillapk",
-      "description": "Default subscription for AdiXCheats",
-      "maxUsers": 1000,
-      "currentUsers": 1,
-      "validityDays": 365,
-      "expiresAt": "2026-10-18T05:34:53.623Z",
-      "isActive": true,
-      "createdAt": "2025-10-18T05:34:53.623Z",
-      "updatedAt": "2025-10-18T05:34:53.623Z"
     }
   ],
-  "webhooks": [
-    {
-      "id": 1760765774972,
-      "userId": "adicheatsontop@gmail@gmail.com",
-      "url": "https://discord.com/api/webhooks/1428827132452405259/uKfu-5Jxk5lFYtpcdH0b3z3mkK2wQsylme96Nw-BlJZCyKJtU2fkUqbIHTIHE1Pwd1Qn",
-      "events": [
-        "user_login",
-        "login_failed",
-        "account_expired",
-        "hwid_mismatch",
-        "login_blocked_username",
-        "user_register",
-        "account_disabled",
-        "version_mismatch",
-        "login_blocked_ip",
-        "login_blocked_hwid"
-      ],
-      "isActive": true,
-      "secret": null,
-      "createdAt": "2025-10-18T05:36:14.972Z",
-      "updatedAt": "2025-10-18T05:36:14.972Z"
-    }
-  ],
+  "webhooks": [],
   "blacklistEntries": [],
-  "activityLogs": [
-    {
-      "id": 1760765803830,
-      "applicationId": 1760765693623,
-      "appUserId": null,
-      "event": "user_register",
-      "success": true,
-      "errorMessage": null,
-      "ipAddress": "::ffff:127.0.0.1",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
-      "metadata": {},
-      "createdAt": "2025-10-18T05:36:43.830Z"
-    }
-  ],
+  "activityLogs": [],
   "activeSessions": [],
   "credits": {
     "1219723803916107959": 2
@@ -384,7 +300,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-18T05:36:43.830Z",
+    "lastUpdated": "2025-10-18T05:39:04.896Z",
     "version": "1.0.0"
   }
 }
