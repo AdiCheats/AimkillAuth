@@ -256,6 +256,24 @@
       "lastLoginAttempt": null,
       "createdAt": "2025-10-17T03:50:19.257Z",
       "updatedAt": "2025-10-17T05:49:56.542Z"
+    },
+    {
+      "id": 1760765727720,
+      "applicationId": 1760765693623,
+      "username": "Armankichut",
+      "password": "$2b$10$dUyrUvzi/XiBPJyYquT83e5L5QpwoEov8NG9FT2G6W3tnQPJHr4ii",
+      "hwid": null,
+      "licenseKey": null,
+      "expiresAt": "2025-10-25T12:35:00.000Z",
+      "isActive": true,
+      "isPaused": false,
+      "isBanned": false,
+      "ip": null,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-18T05:35:27.720Z",
+      "updatedAt": "2025-10-18T05:35:27.720Z"
     }
   ],
   "licenseKeys": [
@@ -306,7 +324,7 @@
       "name": "aimkillapk",
       "description": "Default subscription for AdiXCheats",
       "maxUsers": 1000,
-      "currentUsers": 0,
+      "currentUsers": 1,
       "validityDays": 365,
       "expiresAt": "2026-10-18T05:34:53.623Z",
       "isActive": true,
@@ -331,7 +349,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-18T05:34:53.623Z",
+    "lastUpdated": "2025-10-18T05:35:27.720Z",
     "version": "1.0.0"
   }
 }
