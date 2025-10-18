@@ -202,6 +202,24 @@
       "hwidLockEnabled": false,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
+    },
+    {
+      "id": 1760765693623,
+      "userId": "adicheatsontop@gmail@gmail.com",
+      "name": "AdiXCheats",
+      "description": null,
+      "apiKey": "jOfkmayOdziVRErQgpk8F2iT5zp4WaCr",
+      "isActive": true,
+      "version": "1.0",
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-10-18T05:34:53.623Z",
+      "updatedAt": "2025-10-18T05:34:53.623Z"
     }
   ],
   "appUsers": [
@@ -281,6 +299,19 @@
       "isActive": true,
       "createdAt": "2025-10-17T03:49:45.811Z",
       "updatedAt": "2025-10-17T03:49:45.811Z"
+    },
+    {
+      "id": 1760765693624,
+      "applicationId": 1760765693623,
+      "name": "aimkillapk",
+      "description": "Default subscription for AdiXCheats",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-18T05:34:53.623Z",
+      "isActive": true,
+      "createdAt": "2025-10-18T05:34:53.623Z",
+      "updatedAt": "2025-10-18T05:34:53.623Z"
     }
   ],
   "webhooks": [],
@@ -300,7 +331,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-18T05:34:44.346Z",
+    "lastUpdated": "2025-10-18T05:34:53.623Z",
     "version": "1.0.0"
   }
 }
