@@ -374,7 +374,20 @@
     }
   ],
   "blacklistEntries": [],
-  "activityLogs": [],
+  "activityLogs": [
+    {
+      "id": 1760764288217,
+      "applicationId": 1760764065689,
+      "appUserId": null,
+      "event": "user_register",
+      "success": true,
+      "errorMessage": null,
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0",
+      "metadata": {},
+      "createdAt": "2025-10-18T05:11:28.217Z"
+    }
+  ],
   "activeSessions": [],
   "credits": {
     "1219723803916107959": 2
@@ -389,7 +402,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-18T05:11:16.097Z",
+    "lastUpdated": "2025-10-18T05:11:28.217Z",
     "version": "1.0.0"
   }
 }
