@@ -1,337 +1,343 @@
 {
-  "admin": [],
-  "licenses": [
-    {
-      "key": "AdiCheats-Owner",
-      "subscription": "aimkillapk",
-      "expiry": "2026-01-06",
-      "used": true,
-      "device_id": "9e68f5ac5d44b691"
+    "admin": [],
+    "licenses": [
+        {
+            "key": "AdiCheats-Owner",
+            "subscription": "aimkillapk",
+            "expiry": "2026-01-06",
+            "used": true,
+            "device_id": "9e68f5ac5d44b691"
+        },
+        {
+            "key": "AdiCheats-4FRP4VJKZ29euo",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-09",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-JJbupoRFOctUyM",
+            "subscription": "aimkillapk",
+            "expiry": "2025-09-30",
+            "used": true,
+            "device_id": "b331fac851cea1c4"
+        },
+        {
+            "key": "AdiCheats-Owner2",
+            "subscription": "aimkillapk",
+            "expiry": "2026-01-07",
+            "used": true,
+            "device_id": "2ac0bf9715ef32fc"
+        },
+        {
+            "key": "AdiCheats-SOjE81aDWEle70",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-10",
+            "used": true,
+            "device_id": "2f2279a5eddad730"
+        },
+        {
+            "key": "AdiCheats-9A5aBLwVeskODG",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-05",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-o95hgQFdUHAEdb",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-10",
+            "used": true,
+            "device_id": "2dba1d497f239d4a"
+        },
+        {
+            "key": "AdiCheats-g1y9ayvXOAXyDO",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-11",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-czSP26jnD7SgFA",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-02",
+            "used": true,
+            "device_id": "d79e0e91533882b1"
+        },
+        {
+            "key": "AdiCheats-b04NuJoY16H9L0",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-18",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-bDelZFHcGMdOvB",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-18",
+            "used": true,
+            "device_id": "5732f93e263b7166"
+        },
+        {
+            "key": "AdiCheats-89dNL8wnQfOpuc",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-bVrPPRrsYTKQNy",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-CGixz1U9mGgFjE",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-U2Vx4KOUOCyX25",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-8eGLz6KzjoBJi3",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-ttcfkeoPzNJORA",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-AdEIho6OzRdjjD",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-eAIPCmpTKZ3Fco",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-15",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-xZ29aozZ8reN7S",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": true,
+            "device_id": "bdf474642d51c909"
+        },
+        {
+            "key": "AdiCheats-eNZsApW9J1s2x7",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-eEoVI6hDme0wvl",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": true,
+            "device_id": "cd076ea88d5cefde"
+        },
+        {
+            "key": "AdiCheats-FuL3agt2NGHlbq",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-PVZAavhGc3m947",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": true,
+            "device_id": "48355fe585fee0c6"
+        },
+        {
+            "key": "AdiCheats-0IlunYHyD3iarK",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": true,
+            "device_id": "fee98a7be9843d18"
+        },
+        {
+            "key": "AdiCheats-sUOl9PWkno7hjk",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": true,
+            "device_id": "50031ef062d63558"
+        },
+        {
+            "key": "AdiCheats-UvjLfUgq5sElsA",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-16",
+            "used": false
+        },
+        {
+            "key": "AdiCheats-2GEfGwGTjPTmGs",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-17",
+            "used": true,
+            "device_id": "aa90d3a48a6bae2d"
+        },
+        {
+            "key": "AdiCheats-mXMIHS5KO7VN5W",
+            "subscription": "aimkillapk",
+            "expiry": "2025-10-23",
+            "used": false
+        }
+    ],
+    "users": [],
+    "applications": [
+        {
+            "id": 1760672985811,
+            "userId": "adicheatsontop@gmail.com",
+            "name": "AdiCheats New",
+            "description": null,
+            "apiKey": "SmwDybQalnOzQyinmVEbpheHELJaM7Qz",
+            "isActive": true,
+            "version": null,
+            "versionMismatchMessage": null,
+            "loginSuccessMessage": null,
+            "loginFailedMessage": null,
+            "accountDisabledMessage": null,
+            "accountExpiredMessage": null,
+            "hwidMismatchMessage": null,
+            "hwidLockEnabled": false,
+            "createdAt": "2025-10-17T03:49:45.811Z",
+            "updatedAt": "2025-10-17T03:49:45.811Z"
+        },
+        {
+            "id": 1760777569223,
+            "userId": "adicheatsontop@gmail@gmail.com",
+            "name": "adi",
+            "description": null,
+            "apiKey": "GZpaM2UW7JvfMHd4PCCgljPemP11TlYx",
+            "isActive": true,
+            "version": "1.0",
+            "versionMismatchMessage": null,
+            "loginSuccessMessage": null,
+            "loginFailedMessage": null,
+            "accountDisabledMessage": null,
+            "accountExpiredMessage": null,
+            "hwidMismatchMessage": null,
+            "hwidLockEnabled": true,
+            "createdAt": "2025-10-18T08:52:49.223Z",
+            "updatedAt": "2025-10-18T08:52:49.223Z"
+        }
+    ],
+    "appUsers": [
+        {
+            "id": 1760669013554,
+            "applicationId": 1760663974487,
+            "username": "Naya user ha bhaii",
+            "password": "$2b$10$RerWGqfHB6beGkGyfgHh9ui7HY7TwZHoDpzk8s74tc5zUtnqAtnfG",
+            "email": null,
+            "hwid": null,
+            "licenseKey": null,
+            "expiresAt": "2025-10-23T21:13:00.000Z",
+            "isActive": true,
+            "isPaused": false,
+            "loginAttempts": 0,
+            "lastLogin": null,
+            "lastLoginAttempt": null,
+            "createdAt": "2025-10-17T02:43:33.554Z",
+            "updatedAt": "2025-10-17T03:30:37.560Z"
+        },
+        {
+            "id": 1760673019257,
+            "applicationId": 1760672985811,
+            "username": "Adi",
+            "password": "$2b$10$MkAwnSJ91BsTIgyPnokb5.OAxI3eOa05PnoRJanZEz/3BjUNyC6ka",
+            "email": null,
+            "hwid": null,
+            "licenseKey": null,
+            "expiresAt": "2025-10-23T22:20:00.000Z",
+            "isActive": true,
+            "isPaused": false,
+            "loginAttempts": 0,
+            "lastLogin": null,
+            "lastLoginAttempt": null,
+            "createdAt": "2025-10-17T03:50:19.257Z",
+            "updatedAt": "2025-10-17T05:49:56.542Z"
+        }
+    ],
+    "licenseKeys": [
+        {
+            "id": 1760663974488,
+            "applicationId": 1760663974487,
+            "name": "aimkillapk",
+            "description": "Default subscription for Adii",
+            "maxUsers": 1000,
+            "currentUsers": 0,
+            "validityDays": 365,
+            "expiresAt": "2026-10-17T01:19:34.487Z",
+            "isActive": true,
+            "createdAt": "2025-10-17T01:19:34.488Z",
+            "updatedAt": "2025-10-17T01:19:34.488Z"
+        }
+    ],
+    "subscriptions": [
+        {
+            "id": 1760672531993,
+            "applicationId": 1760672531992,
+            "name": "aimkillapk",
+            "description": "Default subscription for AdiCheats",
+            "maxUsers": 1000,
+            "currentUsers": 0,
+            "validityDays": 365,
+            "expiresAt": "2026-10-17T03:42:11.992Z",
+            "isActive": true,
+            "createdAt": "2025-10-17T03:42:11.992Z",
+            "updatedAt": "2025-10-17T03:42:11.992Z"
+        },
+        {
+            "id": 1760672985812,
+            "applicationId": 1760672985811,
+            "name": "aimkillapk",
+            "description": "Default subscription for AdiCheats New",
+            "maxUsers": 1000,
+            "currentUsers": 1,
+            "validityDays": 365,
+            "expiresAt": "2026-10-17T03:49:45.811Z",
+            "isActive": true,
+            "createdAt": "2025-10-17T03:49:45.811Z",
+            "updatedAt": "2025-10-17T03:49:45.811Z"
+        },
+        {
+            "id": 1760777569224,
+            "applicationId": 1760777569223,
+            "name": "aimkillapk",
+            "description": "Default subscription for adi",
+            "maxUsers": 1000,
+            "currentUsers": 0,
+            "validityDays": 365,
+            "expiresAt": "2026-10-18T08:52:49.223Z",
+            "isActive": true,
+            "createdAt": "2025-10-18T08:52:49.223Z",
+            "updatedAt": "2025-10-18T08:52:49.223Z"
+        }
+    ],
+    "webhooks": [],
+    "blacklistEntries": [],
+    "activityLogs": [],
+    "activeSessions": [],
+    "credits": {
+        "1219723803916107959": 1
     },
-    {
-      "key": "AdiCheats-4FRP4VJKZ29euo",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-09",
-      "used": false
+    "owner_id": 1354876648096272400,
+    "customMessages": {
+        "loginSuccess": "Login successful! Welcome back.",
+        "loginFailed": "Invalid username or password. Please try again.",
+        "accountDisabled": "Your account has been disabled. Please contact support.",
+        "accountExpired": "Your account has expired. Please renew your subscription.",
+        "versionMismatch": "Your application version is outdated. Please update to continue.",
+        "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
     },
-    {
-      "key": "AdiCheats-JJbupoRFOctUyM",
-      "subscription": "aimkillapk",
-      "expiry": "2025-09-30",
-      "used": true,
-      "device_id": "b331fac851cea1c4"
-    },
-    {
-      "key": "AdiCheats-Owner2",
-      "subscription": "aimkillapk",
-      "expiry": "2026-01-07",
-      "used": true,
-      "device_id": "2ac0bf9715ef32fc"
-    },
-    {
-      "key": "AdiCheats-SOjE81aDWEle70",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-10",
-      "used": true,
-      "device_id": "2f2279a5eddad730"
-    },
-    {
-      "key": "AdiCheats-9A5aBLwVeskODG",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-05",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-o95hgQFdUHAEdb",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-10",
-      "used": true,
-      "device_id": "2dba1d497f239d4a"
-    },
-    {
-      "key": "AdiCheats-g1y9ayvXOAXyDO",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-11",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-czSP26jnD7SgFA",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-02",
-      "used": true,
-      "device_id": "d79e0e91533882b1"
-    },
-    {
-      "key": "AdiCheats-b04NuJoY16H9L0",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-18",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-bDelZFHcGMdOvB",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-18",
-      "used": true,
-      "device_id": "5732f93e263b7166"
-    },
-    {
-      "key": "AdiCheats-89dNL8wnQfOpuc",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-bVrPPRrsYTKQNy",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-CGixz1U9mGgFjE",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-U2Vx4KOUOCyX25",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-8eGLz6KzjoBJi3",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-ttcfkeoPzNJORA",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-AdEIho6OzRdjjD",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-eAIPCmpTKZ3Fco",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-15",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-xZ29aozZ8reN7S",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": true,
-      "device_id": "bdf474642d51c909"
-    },
-    {
-      "key": "AdiCheats-eNZsApW9J1s2x7",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-eEoVI6hDme0wvl",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": true,
-      "device_id": "cd076ea88d5cefde"
-    },
-    {
-      "key": "AdiCheats-FuL3agt2NGHlbq",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-PVZAavhGc3m947",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": true,
-      "device_id": "48355fe585fee0c6"
-    },
-    {
-      "key": "AdiCheats-0IlunYHyD3iarK",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": true,
-      "device_id": "fee98a7be9843d18"
-    },
-    {
-      "key": "AdiCheats-sUOl9PWkno7hjk",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": true,
-      "device_id": "50031ef062d63558"
-    },
-    {
-      "key": "AdiCheats-UvjLfUgq5sElsA",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-16",
-      "used": false
-    },
-    {
-      "key": "AdiCheats-2GEfGwGTjPTmGs",
-      "subscription": "aimkillapk",
-      "expiry": "2025-10-17",
-      "used": true,
-      "device_id": "aa90d3a48a6bae2d"
+    "metadata": {
+        "lastUpdated": "2025-10-18T08:52:49.223Z",
+        "version": "1.0.0"
     }
-  ],
-  "users": [],
-  "applications": [
-    {
-      "id": 1760672985811,
-      "userId": "adicheatsontop@gmail.com",
-      "name": "AdiCheats New",
-      "description": null,
-      "apiKey": "SmwDybQalnOzQyinmVEbpheHELJaM7Qz",
-      "isActive": true,
-      "version": null,
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": false,
-      "createdAt": "2025-10-17T03:49:45.811Z",
-      "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760777569223,
-      "userId": "adicheatsontop@gmail@gmail.com",
-      "name": "adi",
-      "description": null,
-      "apiKey": "GZpaM2UW7JvfMHd4PCCgljPemP11TlYx",
-      "isActive": true,
-      "version": "1.0",
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-10-18T08:52:49.223Z",
-      "updatedAt": "2025-10-18T08:52:49.223Z"
-    }
-  ],
-  "appUsers": [
-    {
-      "id": 1760669013554,
-      "applicationId": 1760663974487,
-      "username": "Naya user ha bhaii",
-      "password": "$2b$10$RerWGqfHB6beGkGyfgHh9ui7HY7TwZHoDpzk8s74tc5zUtnqAtnfG",
-      "email": null,
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-23T21:13:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-17T02:43:33.554Z",
-      "updatedAt": "2025-10-17T03:30:37.560Z"
-    },
-    {
-      "id": 1760673019257,
-      "applicationId": 1760672985811,
-      "username": "Adi",
-      "password": "$2b$10$MkAwnSJ91BsTIgyPnokb5.OAxI3eOa05PnoRJanZEz/3BjUNyC6ka",
-      "email": null,
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2025-10-23T22:20:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-17T03:50:19.257Z",
-      "updatedAt": "2025-10-17T05:49:56.542Z"
-    }
-  ],
-  "licenseKeys": [
-    {
-      "id": 1760663974488,
-      "applicationId": 1760663974487,
-      "name": "aimkillapk",
-      "description": "Default subscription for Adii",
-      "maxUsers": 1000,
-      "currentUsers": 0,
-      "validityDays": 365,
-      "expiresAt": "2026-10-17T01:19:34.487Z",
-      "isActive": true,
-      "createdAt": "2025-10-17T01:19:34.488Z",
-      "updatedAt": "2025-10-17T01:19:34.488Z"
-    }
-  ],
-  "subscriptions": [
-    {
-      "id": 1760672531993,
-      "applicationId": 1760672531992,
-      "name": "aimkillapk",
-      "description": "Default subscription for AdiCheats",
-      "maxUsers": 1000,
-      "currentUsers": 0,
-      "validityDays": 365,
-      "expiresAt": "2026-10-17T03:42:11.992Z",
-      "isActive": true,
-      "createdAt": "2025-10-17T03:42:11.992Z",
-      "updatedAt": "2025-10-17T03:42:11.992Z"
-    },
-    {
-      "id": 1760672985812,
-      "applicationId": 1760672985811,
-      "name": "aimkillapk",
-      "description": "Default subscription for AdiCheats New",
-      "maxUsers": 1000,
-      "currentUsers": 1,
-      "validityDays": 365,
-      "expiresAt": "2026-10-17T03:49:45.811Z",
-      "isActive": true,
-      "createdAt": "2025-10-17T03:49:45.811Z",
-      "updatedAt": "2025-10-17T03:49:45.811Z"
-    },
-    {
-      "id": 1760777569224,
-      "applicationId": 1760777569223,
-      "name": "aimkillapk",
-      "description": "Default subscription for adi",
-      "maxUsers": 1000,
-      "currentUsers": 0,
-      "validityDays": 365,
-      "expiresAt": "2026-10-18T08:52:49.223Z",
-      "isActive": true,
-      "createdAt": "2025-10-18T08:52:49.223Z",
-      "updatedAt": "2025-10-18T08:52:49.223Z"
-    }
-  ],
-  "webhooks": [],
-  "blacklistEntries": [],
-  "activityLogs": [],
-  "activeSessions": [],
-  "credits": {
-    "1219723803916107959": 2
-  },
-  "owner_id": 1354876648096272400,
-  "customMessages": {
-    "loginSuccess": "Login successful! Welcome back.",
-    "loginFailed": "Invalid username or password. Please try again.",
-    "accountDisabled": "Your account has been disabled. Please contact support.",
-    "accountExpired": "Your account has expired. Please renew your subscription.",
-    "versionMismatch": "Your application version is outdated. Please update to continue.",
-    "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
-  },
-  "metadata": {
-    "lastUpdated": "2025-10-18T08:52:49.223Z",
-    "version": "1.0.0"
-  }
 }
