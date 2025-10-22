@@ -186,7 +186,8 @@
             "key": "AdiCheats-mXMIHS5KO7VN5W",
             "subscription": "aimkillapk",
             "expiry": "2025-10-23",
-            "used": false
+            "used": true,
+            "device_id": "be3ff93236fabb27"
         }
     ],
     "users": [],
@@ -250,7 +251,7 @@
             "id": 1760673019257,
             "applicationId": 1760672985811,
             "username": "Adi",
-            "password": "$2b$10$MkAwnSJ91BsTIgyPnokb5.OAxI3eOa05PnoRJanZEz/3BjUNyC6ka",
+            "password": "$2b$10$MkAwnSJ91BsTIgyPnokb5.OAxI3eOa05PnoRJanZEz\/3BjUNyC6ka",
             "email": null,
             "hwid": null,
             "licenseKey": null,
