@@ -209,24 +209,6 @@
       "hwidLockEnabled": true,
       "createdAt": "2025-10-18T08:52:49.223Z",
       "updatedAt": "2025-10-18T08:52:49.223Z"
-    },
-    {
-      "id": 1761324696549,
-      "userId": "adicheatsontop@gmail.com",
-      "name": "Brutal Panel",
-      "description": null,
-      "apiKey": "uUP_CITLta1nJi_RlEzoznP0nUJsqBVH",
-      "isActive": true,
-      "version": "1.0",
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-10-24T16:51:36.549Z",
-      "updatedAt": "2025-10-24T16:51:36.549Z"
     }
   ],
   "appUsers": [
@@ -261,19 +243,6 @@
       "isActive": true,
       "createdAt": "2025-10-17T01:19:34.488Z",
       "updatedAt": "2025-10-17T01:19:34.488Z"
-    },
-    {
-      "id": 1761326807213,
-      "applicationId": 1761324696549,
-      "licenseKey": "BRUT-k-0qadIy-JI8LhZic-E4ksrgpk",
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 30,
-      "expiresAt": "2025-11-23T17:26:47.213Z",
-      "description": null,
-      "isActive": true,
-      "createdAt": "2025-10-24T17:26:47.213Z",
-      "updatedAt": "2025-10-24T17:26:47.213Z"
     }
   ],
   "subscriptions": [
@@ -302,19 +271,6 @@
       "isActive": true,
       "createdAt": "2025-10-18T08:52:49.223Z",
       "updatedAt": "2025-10-18T08:52:49.223Z"
-    },
-    {
-      "id": 1761324696550,
-      "applicationId": 1761324696549,
-      "name": "aimkillapk",
-      "description": "Default subscription for Brutal Panel",
-      "maxUsers": 1000,
-      "currentUsers": 0,
-      "validityDays": 365,
-      "expiresAt": "2026-10-24T16:51:36.549Z",
-      "isActive": true,
-      "createdAt": "2025-10-24T16:51:36.549Z",
-      "updatedAt": "2025-10-24T16:51:36.549Z"
     }
   ],
   "webhooks": [],
@@ -334,7 +290,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-24T17:26:47.213Z",
+    "lastUpdated": "2025-10-24T17:29:35.056Z",
     "version": "1.0.0"
   }
 }
