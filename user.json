@@ -216,7 +216,7 @@
       "name": "Brutal Panel",
       "description": null,
       "apiKey": "ZoL0_uZh2T8h6tzOw403bR5oYfYhILAV",
-      "isActive": true,
+      "isActive": false,
       "version": "2.0",
       "versionMismatchMessage": null,
       "loginSuccessMessage": null,
@@ -226,7 +226,7 @@
       "hwidMismatchMessage": null,
       "hwidLockEnabled": false,
       "createdAt": "2025-10-24T17:29:49.935Z",
-      "updatedAt": "2025-10-24T17:48:54.072Z"
+      "updatedAt": "2025-10-24T17:48:59.695Z"
     }
   ],
   "appUsers": [
@@ -321,7 +321,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-24T17:48:54.072Z",
+    "lastUpdated": "2025-10-24T17:48:59.695Z",
     "version": "1.0.0"
   }
 }
