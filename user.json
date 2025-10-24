@@ -255,15 +255,15 @@
       "hwid": null,
       "licenseKey": null,
       "expiresAt": "2025-11-23T17:30:15.013Z",
-      "isActive": false,
+      "isActive": true,
       "isPaused": false,
-      "isBanned": true,
+      "isBanned": false,
       "ip": null,
       "loginAttempts": 0,
       "lastLogin": null,
       "lastLoginAttempt": null,
       "createdAt": "2025-10-24T17:30:15.013Z",
-      "updatedAt": "2025-10-24T17:30:52.370Z"
+      "updatedAt": "2025-10-24T17:31:02.416Z"
     }
   ],
   "licenseKeys": [
@@ -339,7 +339,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-24T17:30:52.370Z",
+    "lastUpdated": "2025-10-24T17:31:02.416Z",
     "version": "1.0.0"
   }
 }
