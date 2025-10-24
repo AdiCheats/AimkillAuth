@@ -224,9 +224,9 @@
       "accountDisabledMessage": null,
       "accountExpiredMessage": null,
       "hwidMismatchMessage": null,
-      "hwidLockEnabled": false,
+      "hwidLockEnabled": true,
       "createdAt": "2025-10-24T17:29:49.935Z",
-      "updatedAt": "2025-10-24T17:49:05.598Z"
+      "updatedAt": "2025-10-24T17:49:13.649Z"
     }
   ],
   "appUsers": [
@@ -321,7 +321,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-24T17:49:05.598Z",
+    "lastUpdated": "2025-10-24T17:49:13.649Z",
     "version": "1.0.0"
   }
 }
