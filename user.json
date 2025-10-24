@@ -217,7 +217,7 @@
       "description": null,
       "apiKey": "ZoL0_uZh2T8h6tzOw403bR5oYfYhILAV",
       "isActive": true,
-      "version": "1.0",
+      "version": "2.0",
       "versionMismatchMessage": null,
       "loginSuccessMessage": null,
       "loginFailedMessage": null,
@@ -226,7 +226,7 @@
       "hwidMismatchMessage": null,
       "hwidLockEnabled": true,
       "createdAt": "2025-10-24T17:29:49.935Z",
-      "updatedAt": "2025-10-24T17:29:49.935Z"
+      "updatedAt": "2025-10-24T17:48:48.594Z"
     }
   ],
   "appUsers": [
@@ -321,7 +321,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-24T17:39:19.924Z",
+    "lastUpdated": "2025-10-24T17:48:48.594Z",
     "version": "1.0.0"
   }
 }
