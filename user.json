@@ -236,15 +236,15 @@
       "apiKey": "Q9yrujr4hm2zPz4w7EeuELkV_pp94Drk",
       "isActive": true,
       "version": "1.0",
-      "versionMismatchMessage": null,
-      "loginSuccessMessage": null,
-      "loginFailedMessage": null,
-      "accountDisabledMessage": null,
-      "accountExpiredMessage": null,
-      "hwidMismatchMessage": null,
+      "versionMismatchMessage": "Update now",
+      "loginSuccessMessage": "Welcome!",
+      "loginFailedMessage": "Bad creds",
+      "accountDisabledMessage": "Disabled",
+      "accountExpiredMessage": "Expired",
+      "hwidMismatchMessage": "HWID mismatch",
       "hwidLockEnabled": true,
       "createdAt": "2025-10-24T16:33:54.914Z",
-      "updatedAt": "2025-10-24T16:33:54.914Z"
+      "updatedAt": "2025-10-24T16:34:05.870Z"
     }
   ],
   "appUsers": [
@@ -352,7 +352,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-24T16:33:54.914Z",
+    "lastUpdated": "2025-10-24T16:34:05.870Z",
     "version": "1.0.0"
   }
 }
