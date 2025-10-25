@@ -362,6 +362,21 @@
         "hwid_locked": true
       },
       "createdAt": "2025-10-25T08:39:27.376Z"
+    },
+    {
+      "id": 1761381581213,
+      "applicationId": 1761326989935,
+      "appUserId": 1761380861018,
+      "event": "login_failed",
+      "success": false,
+      "errorMessage": "Invalid password provided",
+      "ipAddress": "::1",
+      "userAgent": null,
+      "metadata": {
+        "login_attempts": 1,
+        "attempt_time": "2025-10-25T08:39:40.606Z"
+      },
+      "createdAt": "2025-10-25T08:39:41.213Z"
     }
   ],
   "activeSessions": [],
@@ -378,7 +393,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T08:39:39.908Z",
+    "lastUpdated": "2025-10-25T08:39:41.213Z",
     "version": "1.0.0"
   }
 }
