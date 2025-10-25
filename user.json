@@ -276,7 +276,7 @@
       "applicationId": 1761326989935,
       "username": "Pal",
       "password": "$2b$10$dXMpjvmQhGoT7EoHjIgmeezbWveHT4AklPtPjE5V6QUpywXGKR9tq",
-      "hwid": "S-1-5-21-3028217414-970456588-4252730670-1001",
+      "hwid": null,
       "licenseKey": null,
       "expiresAt": "9999-12-31T18:29:00.000Z",
       "isActive": true,
@@ -287,7 +287,7 @@
       "lastLogin": "2025-10-25T12:02:30.658Z",
       "lastLoginAttempt": "2025-10-25T12:02:30.658Z",
       "createdAt": "2025-10-25T12:00:20.464Z",
-      "updatedAt": "2025-10-25T12:02:30.970Z"
+      "updatedAt": "2025-10-25T12:02:43.655Z"
     }
   ],
   "licenseKeys": [
@@ -577,7 +577,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T12:02:32.589Z",
+    "lastUpdated": "2025-10-25T12:02:43.655Z",
     "version": "1.0.0"
   }
 }
