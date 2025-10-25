@@ -330,7 +330,24 @@
   ],
   "webhooks": [],
   "blacklistEntries": [],
-  "activityLogs": [],
+  "activityLogs": [
+    {
+      "id": 1761381347425,
+      "applicationId": 1761326989935,
+      "appUserId": 1761380861018,
+      "event": "user_login",
+      "success": true,
+      "errorMessage": null,
+      "ipAddress": "::1",
+      "userAgent": null,
+      "metadata": {
+        "login_time": "2025-10-25T08:35:46.812Z",
+        "version": "1.0",
+        "hwid_locked": false
+      },
+      "createdAt": "2025-10-25T08:35:47.425Z"
+    }
+  ],
   "activeSessions": [],
   "credits": {
     "1219723803916107959": 0
@@ -345,7 +362,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T08:35:46.298Z",
+    "lastUpdated": "2025-10-25T08:35:47.425Z",
     "version": "1.0.0"
   }
 }
