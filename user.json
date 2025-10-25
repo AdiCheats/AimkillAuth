@@ -233,6 +233,24 @@
       "hwidLockEnabled": true,
       "createdAt": "2025-10-24T17:29:49.935Z",
       "updatedAt": "2025-10-24T17:49:32.775Z"
+    },
+    {
+      "id": 1761402387616,
+      "userId": "adiicheats@gmail.com",
+      "name": "Brutal Panel",
+      "description": null,
+      "apiKey": "xIduAGyfNFbICf6pZ_HcFrPY8dLmC-Qe",
+      "isActive": true,
+      "version": "1.0",
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-10-25T14:26:27.616Z",
+      "updatedAt": "2025-10-25T14:26:27.616Z"
     }
   ],
   "appUsers": [
@@ -339,6 +357,19 @@
       "isActive": true,
       "createdAt": "2025-10-24T17:29:49.935Z",
       "updatedAt": "2025-10-24T17:29:49.935Z"
+    },
+    {
+      "id": 1761402387617,
+      "applicationId": 1761402387616,
+      "name": "aimkillapk",
+      "description": "Default subscription for Brutal Panel",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-25T14:26:27.616Z",
+      "isActive": true,
+      "createdAt": "2025-10-25T14:26:27.616Z",
+      "updatedAt": "2025-10-25T14:26:27.616Z"
     }
   ],
   "webhooks": [],
@@ -587,7 +618,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T12:14:10.216Z",
+    "lastUpdated": "2025-10-25T14:26:27.616Z",
     "version": "1.0.0"
   }
 }
