@@ -264,12 +264,12 @@
       "isActive": true,
       "isPaused": false,
       "isBanned": false,
-      "ip": null,
+      "ip": "::1",
       "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
+      "lastLogin": "2025-10-25T11:25:27.351Z",
+      "lastLoginAttempt": "2025-10-25T11:25:27.351Z",
       "createdAt": "2025-10-25T11:24:35.287Z",
-      "updatedAt": "2025-10-25T11:25:26.639Z"
+      "updatedAt": "2025-10-25T11:25:27.694Z"
     }
   ],
   "licenseKeys": [
@@ -468,7 +468,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T11:25:26.640Z",
+    "lastUpdated": "2025-10-25T11:25:27.694Z",
     "version": "1.0.0"
   }
 }
