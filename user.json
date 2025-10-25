@@ -434,6 +434,18 @@
         "hwid_locked": false
       },
       "createdAt": "2025-10-25T09:30:50.998Z"
+    },
+    {
+      "id": 1761384848172,
+      "applicationId": 1761326989935,
+      "appUserId": null,
+      "event": "login_blocked_username",
+      "success": false,
+      "errorMessage": "Login blocked: Username Adi is blacklisted - teri mkc",
+      "ipAddress": "::1",
+      "userAgent": null,
+      "metadata": {},
+      "createdAt": "2025-10-25T09:34:08.172Z"
     }
   ],
   "activeSessions": [],
@@ -450,7 +462,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T09:33:35.657Z",
+    "lastUpdated": "2025-10-25T09:34:08.172Z",
     "version": "1.0.0"
   }
 }
