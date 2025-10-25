@@ -329,17 +329,7 @@
     }
   ],
   "webhooks": [],
-  "blacklistEntries": [
-    {
-      "id": 1761384815657,
-      "applicationId": 1761326989935,
-      "type": "username",
-      "value": "Adi",
-      "reason": "teri mkc",
-      "createdAt": "2025-10-25T09:33:35.657Z",
-      "updatedAt": "2025-10-25T09:33:35.657Z"
-    }
-  ],
+  "blacklistEntries": [],
   "activityLogs": [
     {
       "id": 1761381347425,
@@ -462,7 +452,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T09:34:08.172Z",
+    "lastUpdated": "2025-10-25T09:34:25.755Z",
     "version": "1.0.0"
   }
 }
