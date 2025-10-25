@@ -533,6 +533,18 @@
         "attempt_time": "2025-10-25T12:02:01.123Z"
       },
       "createdAt": "2025-10-25T12:02:01.405Z"
+    },
+    {
+      "id": 1761393732941,
+      "applicationId": 1761326989935,
+      "appUserId": 1761393620464,
+      "event": "account_disabled",
+      "success": false,
+      "errorMessage": "Account is disabled",
+      "ipAddress": "::1",
+      "userAgent": null,
+      "metadata": {},
+      "createdAt": "2025-10-25T12:02:12.941Z"
     }
   ],
   "activeSessions": [],
@@ -549,7 +561,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T12:02:01.405Z",
+    "lastUpdated": "2025-10-25T12:02:12.941Z",
     "version": "1.0.0"
   }
 }
