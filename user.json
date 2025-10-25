@@ -251,6 +251,24 @@
       "hwidLockEnabled": true,
       "createdAt": "2025-10-25T14:26:27.616Z",
       "updatedAt": "2025-10-25T14:26:27.616Z"
+    },
+    {
+      "id": 1761415894904,
+      "userId": "achaaji03@gmail.com",
+      "name": "New App",
+      "description": null,
+      "apiKey": "-oE-06yzna17ucfWlbZteiUrWDxR_jpq",
+      "isActive": true,
+      "version": "1.0",
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-10-25T18:11:34.904Z",
+      "updatedAt": "2025-10-25T18:11:34.904Z"
     }
   ],
   "appUsers": [
@@ -370,6 +388,19 @@
       "isActive": true,
       "createdAt": "2025-10-25T14:26:27.616Z",
       "updatedAt": "2025-10-25T14:26:27.616Z"
+    },
+    {
+      "id": 1761415894905,
+      "applicationId": 1761415894904,
+      "name": "aimkillapk",
+      "description": "Default subscription for New App",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-25T18:11:34.904Z",
+      "isActive": true,
+      "createdAt": "2025-10-25T18:11:34.904Z",
+      "updatedAt": "2025-10-25T18:11:34.904Z"
     }
   ],
   "webhooks": [],
@@ -618,7 +649,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T14:26:27.616Z",
+    "lastUpdated": "2025-10-25T18:11:34.904Z",
     "version": "1.0.0"
   }
 }
