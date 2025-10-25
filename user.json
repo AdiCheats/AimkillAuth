@@ -442,7 +442,7 @@
   },
   "owner_id": 1354876648096272400,
   "customMessages": {
-    "loginSuccess": "Hey Bro How Are Youu!!",
+    "loginSuccess": "Login successful! Welcome back.",
     "loginFailed": "Invalid username or password. Please try again.",
     "accountDisabled": "Your account has been disabled. Please contact support.",
     "accountExpired": "Your account has expired. Please renew your subscription.",
@@ -450,7 +450,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T10:06:47.037Z",
+    "lastUpdated": "2025-10-25T11:12:38.792Z",
     "version": "1.0.0"
   }
 }
