@@ -284,10 +284,10 @@
       "isBanned": false,
       "ip": "::1",
       "loginAttempts": 0,
-      "lastLogin": "2025-10-25T12:01:04.799Z",
-      "lastLoginAttempt": "2025-10-25T12:01:04.799Z",
+      "lastLogin": "2025-10-25T12:02:30.658Z",
+      "lastLoginAttempt": "2025-10-25T12:02:30.658Z",
       "createdAt": "2025-10-25T12:00:20.464Z",
-      "updatedAt": "2025-10-25T12:02:23.295Z"
+      "updatedAt": "2025-10-25T12:02:30.970Z"
     }
   ],
   "licenseKeys": [
@@ -561,7 +561,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T12:02:23.295Z",
+    "lastUpdated": "2025-10-25T12:02:30.970Z",
     "version": "1.0.0"
   }
 }
