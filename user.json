@@ -252,24 +252,6 @@
       "lastLoginAttempt": null,
       "createdAt": "2025-10-17T02:43:33.554Z",
       "updatedAt": "2025-10-17T03:30:37.560Z"
-    },
-    {
-      "id": 1761384416883,
-      "applicationId": 1761326989935,
-      "username": "Adi",
-      "password": "$2b$10$5zLqwx.105jK3ApM0m6jH.RmyJkt/oNg7t67lG/qRYf4Ml9znmFb.",
-      "hwid": "ibN7r+JjC77XAvCJ5cPqUQNPbFmydIENIvFUHdQGCBU=",
-      "licenseKey": null,
-      "expiresAt": "9999-12-31T18:29:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": "::1",
-      "loginAttempts": 0,
-      "lastLogin": "2025-10-25T09:27:58.046Z",
-      "lastLoginAttempt": "2025-10-25T09:27:58.046Z",
-      "createdAt": "2025-10-25T09:26:56.883Z",
-      "updatedAt": "2025-10-25T09:27:58.371Z"
     }
   ],
   "licenseKeys": [
@@ -424,7 +406,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-25T09:27:59.572Z",
+    "lastUpdated": "2025-10-25T09:30:20.327Z",
     "version": "1.0.0"
   }
 }
