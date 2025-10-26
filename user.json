@@ -251,6 +251,24 @@
       "hwidLockEnabled": true,
       "createdAt": "2025-10-25T14:26:27.616Z",
       "updatedAt": "2025-10-25T14:26:27.616Z"
+    },
+    {
+      "id": 1761475572171,
+      "userId": "adicheatsontop@gmail.com",
+      "name": "Internal Panel",
+      "description": null,
+      "apiKey": "_D75HvPlToDilS1vo7nqxy6RprZTRaMt",
+      "isActive": true,
+      "version": "1.0",
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-10-26T10:46:12.180Z",
+      "updatedAt": "2025-10-26T10:46:12.180Z"
     }
   ],
   "appUsers": [
@@ -357,6 +375,19 @@
       "isActive": true,
       "createdAt": "2025-10-25T14:26:27.616Z",
       "updatedAt": "2025-10-25T14:26:27.616Z"
+    },
+    {
+      "id": 1761475572181,
+      "applicationId": 1761475572171,
+      "name": "aimkillapk",
+      "description": "Default subscription for Internal Panel",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-26T10:46:12.180Z",
+      "isActive": true,
+      "createdAt": "2025-10-26T10:46:12.180Z",
+      "updatedAt": "2025-10-26T10:46:12.180Z"
     }
   ],
   "webhooks": [],
@@ -605,7 +636,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-26T07:17:54.823Z",
+    "lastUpdated": "2025-10-26T10:46:12.180Z",
     "version": "1.0.0"
   }
 }
