@@ -269,6 +269,24 @@
       "hwidLockEnabled": true,
       "createdAt": "2025-10-26T10:46:12.180Z",
       "updatedAt": "2025-10-26T10:46:12.180Z"
+    },
+    {
+      "id": 1761570109765,
+      "userId": "adicheatsontop@gmail.com",
+      "name": "Silent Aim",
+      "description": "silent Aim",
+      "apiKey": "pc7LOSwo8l5hUsniwp68dZ0duA16JO-0",
+      "isActive": true,
+      "version": "1.0",
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-10-27T13:01:49.767Z",
+      "updatedAt": "2025-10-27T13:01:49.767Z"
     }
   ],
   "appUsers": [
@@ -406,6 +424,19 @@
       "isActive": true,
       "createdAt": "2025-10-26T10:46:12.180Z",
       "updatedAt": "2025-10-26T10:46:12.180Z"
+    },
+    {
+      "id": 1761570109768,
+      "applicationId": 1761570109765,
+      "name": "aimkillapk",
+      "description": "Default subscription for Silent Aim",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-27T13:01:49.767Z",
+      "isActive": true,
+      "createdAt": "2025-10-27T13:01:49.767Z",
+      "updatedAt": "2025-10-27T13:01:49.767Z"
     }
   ],
   "webhooks": [],
@@ -654,7 +685,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-26T10:46:25.381Z",
+    "lastUpdated": "2025-10-27T13:01:49.767Z",
     "version": "1.0.0"
   }
 }
