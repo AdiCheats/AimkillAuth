@@ -342,24 +342,6 @@
       "lastLoginAttempt": null,
       "createdAt": "2025-10-26T10:46:25.381Z",
       "updatedAt": "2025-10-26T10:46:25.381Z"
-    },
-    {
-      "id": 1761581537856,
-      "applicationId": 1761326989935,
-      "username": "Golu",
-      "password": "$2b$10$es4VA/nHBKhoeZ2B9L15s.LdMpz15hhFi/v.FPV9997fFEOkxxU4W",
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "9999-12-31T18:29:00.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": null,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-27T16:12:17.856Z",
-      "updatedAt": "2025-10-27T16:13:05.434Z"
     }
   ],
   "licenseKeys": [
@@ -703,7 +685,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-27T17:04:00.204Z",
+    "lastUpdated": "2025-10-27T18:17:46.798Z",
     "version": "1.0.0"
   }
 }
