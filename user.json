@@ -287,6 +287,24 @@
       "hwidLockEnabled": true,
       "createdAt": "2025-10-27T13:01:49.767Z",
       "updatedAt": "2025-10-27T13:01:49.767Z"
+    },
+    {
+      "id": 1761644263274,
+      "userId": "adicheatsontop@gmail.com",
+      "name": "Aimkill",
+      "description": null,
+      "apiKey": "xYfG1ebdjPavaPTE8keR-nPbN78G3Uge",
+      "isActive": true,
+      "version": "1.0",
+      "versionMismatchMessage": null,
+      "loginSuccessMessage": null,
+      "loginFailedMessage": null,
+      "accountDisabledMessage": null,
+      "accountExpiredMessage": null,
+      "hwidMismatchMessage": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-10-28T09:37:43.274Z",
+      "updatedAt": "2025-10-28T09:37:43.274Z"
     }
   ],
   "appUsers": [
@@ -451,6 +469,19 @@
       "isActive": true,
       "createdAt": "2025-10-27T13:01:49.767Z",
       "updatedAt": "2025-10-27T13:01:49.767Z"
+    },
+    {
+      "id": 1761644263275,
+      "applicationId": 1761644263274,
+      "name": "aimkillapk",
+      "description": "Default subscription for Aimkill",
+      "maxUsers": 1000,
+      "currentUsers": 0,
+      "validityDays": 365,
+      "expiresAt": "2026-10-28T09:37:43.274Z",
+      "isActive": true,
+      "createdAt": "2025-10-28T09:37:43.274Z",
+      "updatedAt": "2025-10-28T09:37:43.274Z"
     }
   ],
   "webhooks": [],
@@ -699,7 +730,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-28T08:56:32.359Z",
+    "lastUpdated": "2025-10-28T09:37:43.274Z",
     "version": "1.0.0"
   }
 }
