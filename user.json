@@ -369,8 +369,8 @@
       "description": null,
       "isActive": true,
       "createdAt": "2025-10-28T08:01:57.102Z",
-      "updatedAt": "2025-10-28T08:32:08.530Z",
-      "isBanned": true
+      "updatedAt": "2025-10-28T08:32:12.800Z",
+      "isBanned": false
     }
   ],
   "subscriptions": [
@@ -699,7 +699,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-28T08:32:08.530Z",
+    "lastUpdated": "2025-10-28T08:32:12.800Z",
     "version": "1.0.0"
   }
 }
