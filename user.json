@@ -383,12 +383,12 @@
       "maxUsers": 1,
       "currentUsers": 0,
       "validityDays": 30,
-      "expiresAt": "2025-11-27T08:56:32.359Z",
+      "expiresAt": "2025-12-02T08:56:32.359Z",
       "description": null,
       "isActive": true,
       "isBanned": false,
       "createdAt": "2025-10-28T08:56:32.359Z",
-      "updatedAt": "2025-10-28T08:56:32.359Z"
+      "updatedAt": "2025-10-28T17:52:43.385Z"
     }
   ],
   "subscriptions": [
@@ -730,7 +730,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-28T09:37:43.274Z",
+    "lastUpdated": "2025-10-28T17:52:43.385Z",
     "version": "1.0.0"
   }
 }
