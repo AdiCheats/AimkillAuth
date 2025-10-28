@@ -357,19 +357,6 @@
       "isActive": true,
       "createdAt": "2025-10-17T01:19:34.488Z",
       "updatedAt": "2025-10-17T01:19:34.488Z"
-    },
-    {
-      "id": 1761594575443,
-      "applicationId": 1761326989935,
-      "licenseKey": "AdiCheats-JV7G8P-T3FLWN-VDFM57",
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 30,
-      "expiresAt": "2025-11-26T19:49:35.443Z",
-      "description": "Baby ",
-      "isActive": true,
-      "createdAt": "2025-10-27T19:49:35.443Z",
-      "updatedAt": "2025-10-27T19:49:35.443Z"
     }
   ],
   "subscriptions": [
@@ -698,7 +685,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-27T19:49:35.443Z",
+    "lastUpdated": "2025-10-28T08:01:50.531Z",
     "version": "1.0.0"
   }
 }
