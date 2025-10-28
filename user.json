@@ -367,9 +367,9 @@
       "validityDays": 30,
       "expiresAt": "2025-11-27T08:01:57.102Z",
       "description": null,
-      "isActive": false,
+      "isActive": true,
       "createdAt": "2025-10-28T08:01:57.102Z",
-      "updatedAt": "2025-10-28T08:30:08.426Z",
+      "updatedAt": "2025-10-28T08:32:08.530Z",
       "isBanned": true
     }
   ],
@@ -699,7 +699,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-28T08:30:08.426Z",
+    "lastUpdated": "2025-10-28T08:32:08.530Z",
     "version": "1.0.0"
   }
 }
