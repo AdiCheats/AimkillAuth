@@ -337,11 +337,11 @@
       "isPaused": false,
       "isBanned": false,
       "ip": "::1",
-      "loginAttempts": 1,
+      "loginAttempts": 2,
       "lastLogin": "2025-10-25T12:00:42.959Z",
-      "lastLoginAttempt": "2025-10-25T12:14:08.057Z",
+      "lastLoginAttempt": "2025-10-29T19:34:07.958Z",
       "createdAt": "2025-10-25T11:24:35.287Z",
-      "updatedAt": "2025-10-27T17:04:00.204Z"
+      "updatedAt": "2025-10-29T19:34:08.688Z"
     },
     {
       "id": 1761475585381,
@@ -745,7 +745,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-29T19:33:54.728Z",
+    "lastUpdated": "2025-10-29T19:34:08.688Z",
     "version": "1.0.0"
   }
 }
