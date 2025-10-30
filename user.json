@@ -425,6 +425,20 @@
       "isBanned": false,
       "createdAt": "2025-10-28T08:56:32.359Z",
       "updatedAt": "2025-10-28T17:52:43.385Z"
+    },
+    {
+      "id": 1761823487871,
+      "applicationId": 1761326989935,
+      "licenseKey": "Brutal Panel-ITR2LQ-AVHZGH-16FZ7C",
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 999,
+      "expiresAt": "2028-07-25T11:24:47.871Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "createdAt": "2025-10-30T11:24:47.871Z",
+      "updatedAt": "2025-10-30T11:24:47.871Z"
     }
   ],
   "subscriptions": [
@@ -1167,7 +1181,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-30T11:24:02.840Z",
+    "lastUpdated": "2025-10-30T11:24:47.871Z",
     "version": "1.0.0"
   }
 }
