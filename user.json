@@ -384,7 +384,7 @@
       "applicationId": 1761475572171,
       "username": "Vb",
       "password": "$2b$10$jnJ3wqmjlCZsNEMXHQMEIeHf8jR5peeY8W4NapAktzwxIs49d3W.6",
-      "hwid": null,
+      "hwid": "S-1-5-21-740298862-4049989092-938550992-1001",
       "licenseKey": null,
       "expiresAt": "2099-12-31T18:29:59.000Z",
       "isActive": true,
@@ -395,7 +395,7 @@
       "lastLogin": null,
       "lastLoginAttempt": "2025-10-30T10:06:56.043Z",
       "createdAt": "2025-10-30T10:06:42.043Z",
-      "updatedAt": "2025-10-30T10:06:56.370Z"
+      "updatedAt": "2025-10-30T10:07:08.045Z"
     }
   ],
   "licenseKeys": [
@@ -983,7 +983,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-30T10:06:57.819Z",
+    "lastUpdated": "2025-10-30T10:07:08.045Z",
     "version": "1.0.0"
   }
 }
