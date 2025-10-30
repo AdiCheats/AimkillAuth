@@ -1031,6 +1031,21 @@
         "hwid_locked": true
       },
       "createdAt": "2025-10-30T11:08:19.259Z"
+    },
+    {
+      "id": 1761823036040,
+      "applicationId": 1761326989935,
+      "appUserId": null,
+      "event": "login_failed",
+      "success": false,
+      "errorMessage": "User not found",
+      "ipAddress": "10.17.152.92",
+      "userAgent": null,
+      "metadata": {
+        "reason": "non_existent_user",
+        "attempt_time": "2025-10-30T11:17:15.720Z"
+      },
+      "createdAt": "2025-10-30T11:17:16.040Z"
     }
   ],
   "activeSessions": [],
@@ -1047,7 +1062,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-30T11:08:19.259Z",
+    "lastUpdated": "2025-10-30T11:17:16.040Z",
     "version": "1.0.0"
   }
 }
