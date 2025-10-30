@@ -396,6 +396,24 @@
       "lastLoginAttempt": "2025-10-30T10:07:08.772Z",
       "createdAt": "2025-10-30T10:06:42.043Z",
       "updatedAt": "2025-10-30T10:07:09.134Z"
+    },
+    {
+      "id": 1761823148741,
+      "applicationId": 1761326989935,
+      "username": "F",
+      "password": "$2b$10$qPmzmlmSzEEohiv4Pml8V.QlRqQgF0O..tK9aRKZpglsHDwClxbrW",
+      "hwid": null,
+      "licenseKey": null,
+      "expiresAt": "2099-12-31T18:29:59.000Z",
+      "isActive": true,
+      "isPaused": false,
+      "isBanned": false,
+      "ip": null,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-30T11:19:08.741Z",
+      "updatedAt": "2025-10-30T11:19:08.741Z"
     }
   ],
   "licenseKeys": [
@@ -460,7 +478,7 @@
       "name": "aimkillapk",
       "description": "Default subscription for Brutal Panel",
       "maxUsers": 1000,
-      "currentUsers": 10,
+      "currentUsers": 11,
       "validityDays": 365,
       "expiresAt": "2026-10-24T17:29:49.935Z",
       "isActive": true,
@@ -1092,7 +1110,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-30T11:17:39.004Z",
+    "lastUpdated": "2025-10-30T11:19:08.741Z",
     "version": "1.0.0"
   }
 }
