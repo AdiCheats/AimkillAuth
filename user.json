@@ -967,6 +967,22 @@
         "attempt_time": "2025-10-30T10:06:57.141Z"
       },
       "createdAt": "2025-10-30T10:06:57.819Z"
+    },
+    {
+      "id": 1761818830630,
+      "applicationId": 1761475572171,
+      "appUserId": 1761818802043,
+      "event": "user_login",
+      "success": true,
+      "errorMessage": null,
+      "ipAddress": "10.17.181.5",
+      "userAgent": null,
+      "metadata": {
+        "login_time": "2025-10-30T10:07:09.949Z",
+        "version": "1.0",
+        "hwid_locked": false
+      },
+      "createdAt": "2025-10-30T10:07:10.630Z"
     }
   ],
   "activeSessions": [],
@@ -983,7 +999,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-30T10:07:09.134Z",
+    "lastUpdated": "2025-10-30T10:07:10.630Z",
     "version": "1.0.0"
   }
 }
