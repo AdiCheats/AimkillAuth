@@ -509,25 +509,6 @@
       "lastLoginAttempt": "2025-10-31T19:06:58.573Z",
       "createdAt": "2025-10-31T19:06:09.928Z",
       "updatedAt": "2025-10-31T19:06:59.576Z"
-    },
-    {
-      "id": 1761937663227,
-      "applicationId": 1761475572171,
-      "username": "naya",
-      "password": "$2b$10$ozwBiA2.1hdfP9ayU1aSWO8guhGcFsGDbfQ.ZU2SlUUMB2wgJ8Aty",
-      "hwid": null,
-      "hwidLockEnabled": true,
-      "licenseKey": null,
-      "expiresAt": "2099-12-31T18:29:59.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": null,
-      "loginAttempts": 0,
-      "lastLogin": null,
-      "lastLoginAttempt": null,
-      "createdAt": "2025-10-31T19:07:43.227Z",
-      "updatedAt": "2025-10-31T19:07:43.228Z"
     }
   ],
   "licenseKeys": [
@@ -1873,7 +1854,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-31T19:08:06.851Z",
+    "lastUpdated": "2025-10-31T19:08:16.676Z",
     "version": "1.0.0"
   }
 }
