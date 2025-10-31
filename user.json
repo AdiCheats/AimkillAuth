@@ -471,6 +471,25 @@
       "lastLoginAttempt": "2025-10-31T17:24:25.890Z",
       "createdAt": "2025-10-31T17:17:27.175Z",
       "updatedAt": "2025-10-31T17:24:26.221Z"
+    },
+    {
+      "id": 1761936493941,
+      "applicationId": 1761475572171,
+      "username": "Arman",
+      "password": "$2b$10$zA25maWN1.EiMC.4ZDMLH.bqgRpcjp9UFuLkmWUIpp.fdjGzAnsdG",
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "licenseKey": null,
+      "expiresAt": "2099-12-31T18:29:59.000Z",
+      "isActive": true,
+      "isPaused": false,
+      "isBanned": false,
+      "ip": null,
+      "loginAttempts": 0,
+      "lastLogin": null,
+      "lastLoginAttempt": null,
+      "createdAt": "2025-10-31T18:48:13.941Z",
+      "updatedAt": "2025-10-31T18:48:13.941Z"
     }
   ],
   "licenseKeys": [
@@ -561,7 +580,7 @@
       "name": "aimkillapk",
       "description": "Default subscription for Internal Panel",
       "maxUsers": 1000,
-      "currentUsers": 8,
+      "currentUsers": 9,
       "validityDays": 365,
       "expiresAt": "2026-10-26T10:46:12.180Z",
       "isActive": true,
@@ -1708,7 +1727,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-31T17:24:28.865Z",
+    "lastUpdated": "2025-10-31T18:48:13.941Z",
     "version": "1.0.0"
   }
 }
