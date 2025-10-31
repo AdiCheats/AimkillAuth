@@ -496,7 +496,7 @@
       "applicationId": 1761475572171,
       "username": "flash",
       "password": "$2b$10$MYhnFujTKWFsHzesgUU8qOOzpB8287zKGnEmyIV51eVZ9wQXwUX5G",
-      "hwid": null,
+      "hwid": "S-1-5-21-1795187001-776152809-4276559823-1000",
       "hwidLockEnabled": true,
       "licenseKey": null,
       "expiresAt": "2099-12-31T18:29:59.000Z",
@@ -508,7 +508,7 @@
       "lastLogin": null,
       "lastLoginAttempt": null,
       "createdAt": "2025-10-31T19:06:09.928Z",
-      "updatedAt": "2025-10-31T19:06:09.928Z"
+      "updatedAt": "2025-10-31T19:06:56.593Z"
     }
   ],
   "licenseKeys": [
@@ -1838,7 +1838,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-10-31T19:06:45.884Z",
+    "lastUpdated": "2025-10-31T19:06:56.593Z",
     "version": "1.0.0"
   }
 }
