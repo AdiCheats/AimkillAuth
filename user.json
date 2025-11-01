@@ -2055,6 +2055,21 @@
         "attempt_time": "2025-11-01T02:37:42.452Z"
       },
       "createdAt": "2025-11-01T02:37:42.999Z"
+    },
+    {
+      "id": 1761964756428,
+      "applicationId": 1761475572171,
+      "appUserId": null,
+      "event": "login_failed",
+      "success": false,
+      "errorMessage": "User not found",
+      "ipAddress": "10.17.200.131",
+      "userAgent": null,
+      "metadata": {
+        "reason": "non_existent_user",
+        "attempt_time": "2025-11-01T02:39:16.136Z"
+      },
+      "createdAt": "2025-11-01T02:39:16.428Z"
     }
   ],
   "activeSessions": [],
@@ -2071,7 +2086,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-11-01T02:37:42.999Z",
+    "lastUpdated": "2025-11-01T02:39:16.428Z",
     "version": "1.0.0"
   }
 }
