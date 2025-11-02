@@ -1,24 +1,7 @@
 {
-  "licenses": [
-    {
-      "id": "WnNffMcs-dC4Qbtm",
-      "licenseKey": "Aimkill-3BGL9U-GEOJOG-XZ2FH4",
-      "applicationId": 1761644263274,
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 30,
-      "expiresAt": "2025-12-02T17:46:49.368Z",
-      "description": null,
-      "isActive": true,
-      "isBanned": false,
-      "hwid": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-11-02T17:46:49.368Z",
-      "updatedAt": "2025-11-02T17:46:49.368Z"
-    }
-  ],
+  "licenses": [],
   "metadata": {
-    "lastUpdated": "2025-11-02T17:46:49.368Z",
+    "lastUpdated": "2025-11-02T17:46:53.704Z",
     "version": "1.0.0"
   }
 }
