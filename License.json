@@ -9,16 +9,16 @@
       "validityDays": 30,
       "expiresAt": "2025-12-02T17:29:18.367Z",
       "description": null,
-      "isActive": false,
-      "isBanned": true,
+      "isActive": true,
+      "isBanned": false,
       "hwid": null,
       "hwidLockEnabled": false,
       "createdAt": "2025-11-02T17:29:18.367Z",
-      "updatedAt": "2025-11-02T17:29:56.061Z"
+      "updatedAt": "2025-11-02T17:29:57.996Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-02T17:29:56.061Z",
+    "lastUpdated": "2025-11-02T17:29:57.996Z",
     "version": "1.0.0"
   }
 }
