@@ -1,24 +1,7 @@
 {
-  "licenses": [
-    {
-      "id": "lK1moBQVMtcG23MU",
-      "licenseKey": "Aimkill-DTDGH5-777I2Q-975MFJ",
-      "applicationId": 1761644263274,
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 30,
-      "expiresAt": "2025-12-02T17:29:18.367Z",
-      "description": null,
-      "isActive": true,
-      "isBanned": false,
-      "hwid": null,
-      "hwidLockEnabled": false,
-      "createdAt": "2025-11-02T17:29:18.367Z",
-      "updatedAt": "2025-11-02T17:29:57.996Z"
-    }
-  ],
+  "licenses": [],
   "metadata": {
-    "lastUpdated": "2025-11-02T17:29:57.996Z",
+    "lastUpdated": "2025-11-02T17:30:01.353Z",
     "version": "1.0.0"
   }
 }
