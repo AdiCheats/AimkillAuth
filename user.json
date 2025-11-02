@@ -380,24 +380,6 @@
       "updatedAt": "2025-10-30T10:07:09.134Z"
     },
     {
-      "id": 1761825972341,
-      "applicationId": 1761326989935,
-      "username": "f",
-      "password": "$2b$10$sM4TXwHiFmk4NjMLxZnN4OY7LJFpAnez6BDcQZtQF7A47HUkrOCRC",
-      "hwid": null,
-      "licenseKey": null,
-      "expiresAt": "2099-12-31T18:29:59.000Z",
-      "isActive": true,
-      "isPaused": false,
-      "isBanned": false,
-      "ip": "10.16.82.132",
-      "loginAttempts": 0,
-      "lastLogin": "2025-10-31T19:54:35.493Z",
-      "lastLoginAttempt": "2025-10-31T19:54:35.493Z",
-      "createdAt": "2025-10-30T12:06:12.341Z",
-      "updatedAt": "2025-10-31T19:54:36.027Z"
-    },
-    {
       "id": 1761931047175,
       "applicationId": 1761475572171,
       "username": "Test",
@@ -2395,7 +2377,7 @@
     "hwidMismatch": "Hardware ID mismatch detected. Please contact support for assistance."
   },
   "metadata": {
-    "lastUpdated": "2025-11-02T10:56:48.865Z",
+    "lastUpdated": "2025-11-02T10:56:55.808Z",
     "version": "1.0.0"
   }
 }
