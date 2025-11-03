@@ -1,24 +1,30 @@
 {
-  "licenses": [
-    {
-      "id": "WRqc8ZhGHD_qj3_M",
-      "licenseKey": "Aimkill-PY5WP0-Y8Z5TZ-TBHGCR",
-      "applicationId": 1761644263274,
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 30,
-      "expiresAt": "2025-12-03T10:59:11.351Z",
-      "description": null,
-      "isActive": true,
-      "isBanned": false,
-      "hwid": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-11-03T10:59:11.351Z",
-      "updatedAt": "2025-11-03T10:59:11.351Z"
-    }
-  ],
-  "metadata": {
-    "lastUpdated": "2025-11-03T10:59:11.351Z",
-    "version": "1.0.0"
-  }
+    "licenses":  [
+                     {
+                         "id":  "WRqc8ZhGHD_qj3_M",
+                         "licenseKey":  "Aimkill-PY5WP0-Y8Z5TZ-TBHGCR",
+                         "applicationId":  1761644263274,
+                         "maxUsers":  1,
+                         "currentUsers":  0,
+                         "validityDays":  30,
+                         "expiresAt":  "2025-12-03T10:59:11.351Z",
+                         "description":  null,
+                         "isActive":  true,
+                         "isBanned":  false,
+                         "hwid":  null,
+                         "hwidLockEnabled":  true,
+                         "createdAt":  "2025-11-03T10:59:11.351Z",
+                         "updatedAt":  "2025-11-03T10:59:11.351Z",
+                         "applicationData":  {
+                                                 "isActive":  true,
+                                                 "name":  "Aimkill",
+                                                 "apiKey":  "xYfG1ebdjPavaPTE8keR-nPbN78G3Uge",
+                                                 "version":  "1.0"
+                                             }
+                     }
+                 ],
+    "metadata":  {
+                     "lastUpdated":  "2025-11-03T11:52:45.579Z",
+                     "version":  "1.0.0"
+                 }
 }
