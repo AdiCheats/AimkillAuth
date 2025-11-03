@@ -131,10 +131,26 @@
         "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
         "version": "1.0"
       }
+    },
+    {
+      "id": "oRKroLNK54fZWVB8",
+      "licenseKey": "AimkillTest-LHM8NI-CXZ1GM-44HGTY",
+      "applicationId": 1762170848483,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2025-12-03T15:40:39.198Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-03T15:40:39.198Z",
+      "updatedAt": "2025-11-03T15:40:39.198Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-03T15:14:17.624Z",
+    "lastUpdated": "2025-11-03T15:40:39.198Z",
     "version": "1.0.0"
   }
 }
