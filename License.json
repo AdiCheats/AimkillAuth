@@ -59,10 +59,26 @@
       "hwidLockEnabled": true,
       "createdAt": "2025-11-03T13:00:23.861Z",
       "updatedAt": "2025-11-03T13:00:23.861Z"
+    },
+    {
+      "id": "dtySkykUK0s0EvHp",
+      "licenseKey": "AimkillTest-02MR4J-VVGFEW-M3K1CC",
+      "applicationId": 1762170848483,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2025-12-03T15:00:05.764Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-03T15:00:05.764Z",
+      "updatedAt": "2025-11-03T15:00:05.764Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-03T13:00:23.861Z",
+    "lastUpdated": "2025-11-03T15:00:05.764Z",
     "version": "1.0.0"
   }
 }
