@@ -16,10 +16,10 @@
       "createdAt": "2025-11-03T10:59:11.351Z",
       "updatedAt": "2025-11-03T10:59:11.351Z",
       "applicationData": {
-        "isActive": true,
         "name": "Aimkill",
         "apiKey": "xYfG1ebdjPavaPTE8keR-nPbN78G3Uge",
-        "version": "1.0"
+        "version": "1.0",
+        "isActive": true
       }
     },
     {
@@ -38,10 +38,10 @@
       "createdAt": "2025-11-03T11:55:21.116Z",
       "updatedAt": "2025-11-03T11:55:21.116Z",
       "applicationData": {
-        "isActive": true,
         "name": "AimkillTest",
         "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
-        "version": "1.0"
+        "version": "1.0",
+        "isActive": true
       }
     },
     {
@@ -60,10 +60,10 @@
       "createdAt": "2025-11-03T13:00:23.861Z",
       "updatedAt": "2025-11-03T13:00:23.861Z",
       "applicationData": {
-        "isActive": true,
         "name": "AimkillTest",
         "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
-        "version": "1.0"
+        "version": "1.0",
+        "isActive": true
       }
     },
     {
@@ -82,10 +82,10 @@
       "createdAt": "2025-11-03T15:00:05.764Z",
       "updatedAt": "2025-11-03T15:00:05.764Z",
       "applicationData": {
-        "isActive": true,
         "name": "AimkillTest",
         "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
-        "version": "1.0"
+        "version": "1.0",
+        "isActive": true
       }
     },
     {
@@ -104,10 +104,10 @@
       "createdAt": "2025-11-03T15:10:33.885Z",
       "updatedAt": "2025-11-03T15:10:33.885Z",
       "applicationData": {
-        "isActive": true,
         "name": "AimkillTest",
         "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
-        "version": "1.0"
+        "version": "1.0",
+        "isActive": true
       }
     },
     {
@@ -126,10 +126,10 @@
       "createdAt": "2025-11-03T15:14:17.624Z",
       "updatedAt": "2025-11-03T15:14:17.624Z",
       "applicationData": {
-        "isActive": true,
         "name": "AimkillTest",
         "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
-        "version": "1.0"
+        "version": "1.0",
+        "isActive": true
       }
     },
     {
@@ -191,10 +191,32 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "4_qxNI5ajiJ3fvNs",
+      "licenseKey": "AdiCheats-XJPGDU-ERMB4T-L0HPVJ",
+      "applicationId": 1762170848483,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2025-12-03T17:17:59.191Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-03T17:17:59.191Z",
+      "updatedAt": "2025-11-03T17:17:59.191Z",
+      "applicationData": {
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-03T16:48:05.061Z",
+    "lastUpdated": "2025-11-03T17:17:59.192Z",
     "version": "1.0.0"
   }
 }
