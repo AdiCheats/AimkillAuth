@@ -58,7 +58,13 @@
       "hwid": null,
       "hwidLockEnabled": true,
       "createdAt": "2025-11-03T13:00:23.861Z",
-      "updatedAt": "2025-11-03T13:00:23.861Z"
+      "updatedAt": "2025-11-03T13:00:23.861Z",
+      "applicationData": {
+        "isActive": true,
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0"
+      }
     },
     {
       "id": "dtySkykUK0s0EvHp",
@@ -74,7 +80,13 @@
       "hwid": null,
       "hwidLockEnabled": true,
       "createdAt": "2025-11-03T15:00:05.764Z",
-      "updatedAt": "2025-11-03T15:00:05.764Z"
+      "updatedAt": "2025-11-03T15:00:05.764Z",
+      "applicationData": {
+        "isActive": true,
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0"
+      }
     },
     {
       "id": "_4PzsXo59dqHQ4Lo",
@@ -90,7 +102,13 @@
       "hwid": null,
       "hwidLockEnabled": true,
       "createdAt": "2025-11-03T15:10:33.885Z",
-      "updatedAt": "2025-11-03T15:10:33.885Z"
+      "updatedAt": "2025-11-03T15:10:33.885Z",
+      "applicationData": {
+        "isActive": true,
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0"
+      }
     },
     {
       "id": "BrKrxafCZNPQfglx",
@@ -106,7 +124,13 @@
       "hwid": null,
       "hwidLockEnabled": true,
       "createdAt": "2025-11-03T15:14:17.624Z",
-      "updatedAt": "2025-11-03T15:14:17.624Z"
+      "updatedAt": "2025-11-03T15:14:17.624Z",
+      "applicationData": {
+        "isActive": true,
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0"
+      }
     }
   ],
   "metadata": {
