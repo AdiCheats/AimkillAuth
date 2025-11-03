@@ -1,24 +1,7 @@
 {
-  "licenses": [
-    {
-      "id": "SygRZJ3BOq-iNRPb",
-      "licenseKey": "Aimkill-DQN4R8-QDI770-WQ3PEY",
-      "applicationId": 1761644263274,
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 30,
-      "expiresAt": "2025-12-02T19:34:29.348Z",
-      "description": null,
-      "isActive": true,
-      "isBanned": false,
-      "hwid": null,
-      "hwidLockEnabled": true,
-      "createdAt": "2025-11-02T19:34:29.348Z",
-      "updatedAt": "2025-11-02T19:34:29.348Z"
-    }
-  ],
+  "licenses": [],
   "metadata": {
-    "lastUpdated": "2025-11-03T09:40:57.205Z",
+    "lastUpdated": "2025-11-03T10:19:26.792Z",
     "version": "1.0.0"
   }
 }
