@@ -1,7 +1,24 @@
 {
-  "licenses": [],
+  "licenses": [
+    {
+      "id": "205hBX8JsW_iEEyr",
+      "licenseKey": "AdiCheats-VJSNJT-WJDSB2-QOMBB4",
+      "applicationId": 1761644263274,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2025-12-03T10:19:40.663Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-03T10:19:40.663Z",
+      "updatedAt": "2025-11-03T10:19:40.663Z"
+    }
+  ],
   "metadata": {
-    "lastUpdated": "2025-11-03T10:19:26.792Z",
+    "lastUpdated": "2025-11-03T10:19:40.663Z",
     "version": "1.0.0"
   }
 }
