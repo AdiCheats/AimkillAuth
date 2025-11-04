@@ -43,10 +43,32 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "jaMYKkssrWGzJUdh",
+      "licenseKey": "AdiCheats-DXG3KQ-MA3Z95-7M8E83",
+      "applicationId": 1762170848483,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2025-12-04T14:56:31.100Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-04T14:56:31.100Z",
+      "updatedAt": "2025-11-04T14:56:31.100Z",
+      "applicationData": {
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-04T14:56:26.656Z",
+    "lastUpdated": "2025-11-04T14:56:31.100Z",
     "version": "1.0.0"
   }
 }
