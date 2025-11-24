@@ -219,10 +219,32 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "3ndQTaofI9_W4RAW",
+      "licenseKey": "Silent Aim-7MQJ44-4QC1DS-SJE0ZS",
+      "applicationId": 1761570109765,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 1,
+      "expiresAt": "2025-11-25T03:37:58.324Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-24T03:37:58.324Z",
+      "updatedAt": "2025-11-24T03:37:58.324Z",
+      "applicationData": {
+        "name": "Silent Aim",
+        "apiKey": "pc7LOSwo8l5hUsniwp68dZ0duA16JO-0",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-24T03:37:34.966Z",
+    "lastUpdated": "2025-11-24T03:37:58.324Z",
     "version": "1.0.0"
   }
 }
