@@ -241,10 +241,32 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "n7bvyYiomlhjs6fk",
+      "licenseKey": "ADICHEATS-KOLBS8-SS4TD0-6GISMN",
+      "applicationId": 1762170848483,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 2,
+      "expiresAt": "2025-12-01T10:59:17.154Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-29T10:59:17.154Z",
+      "updatedAt": "2025-11-29T10:59:17.154Z",
+      "applicationData": {
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-29T09:18:36.837Z",
+    "lastUpdated": "2025-11-29T10:59:17.154Z",
     "version": "1.0.0"
   }
 }
