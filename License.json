@@ -271,14 +271,14 @@
       "maxUsers": 1,
       "currentUsers": 0,
       "validityDays": 30,
-      "expiresAt": "2025-12-29T19:45:34.981Z",
+      "expiresAt": "2025-12-31T19:45:34.981Z",
       "description": null,
       "isActive": false,
       "isBanned": true,
       "hwid": null,
       "hwidLockEnabled": true,
       "createdAt": "2025-11-29T19:45:34.981Z",
-      "updatedAt": "2025-11-29T19:59:03.048Z",
+      "updatedAt": "2025-11-29T19:59:34.058Z",
       "applicationData": {
         "name": "Internal Panel",
         "apiKey": "_D75HvPlToDilS1vo7nqxy6RprZTRaMt",
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-29T19:59:03.048Z",
+    "lastUpdated": "2025-11-29T19:59:34.058Z",
     "version": "1.0.0"
   }
 }
