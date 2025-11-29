@@ -177,28 +177,6 @@
       }
     },
     {
-      "id": "ZShlsuSFBWETD_Sv",
-      "licenseKey": "ADICHEATS11-10SVWI-GEX6K7-X9JA7S",
-      "applicationId": 1762170848483,
-      "maxUsers": 1,
-      "currentUsers": 0,
-      "validityDays": 1,
-      "expiresAt": "2025-11-13T12:10:16.828Z",
-      "description": null,
-      "isActive": true,
-      "isBanned": false,
-      "hwid": null,
-      "hwidLockEnabled": false,
-      "createdAt": "2025-11-12T12:10:16.828Z",
-      "updatedAt": "2025-11-12T12:10:16.828Z",
-      "applicationData": {
-        "name": "AimkillTest",
-        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
-        "version": "1.0",
-        "isActive": true
-      }
-    },
-    {
       "id": "YABozaWutbGRlHvj",
       "licenseKey": "Silent Aim-3AP4WZ-AFIVI8-MYYI8J",
       "applicationId": 1761570109765,
@@ -266,7 +244,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-29T09:18:31.105Z",
+    "lastUpdated": "2025-11-29T09:18:36.837Z",
     "version": "1.0.0"
   }
 }
