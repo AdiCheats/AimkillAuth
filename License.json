@@ -263,10 +263,32 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "j0E4VxrrWflYQ1G3",
+      "licenseKey": "AdiCheats-21ETUR-BBWLRY-L03PVC",
+      "applicationId": 1761475572171,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2025-12-30T23:33:12.871Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-11-30T23:33:12.871Z",
+      "updatedAt": "2025-11-30T23:33:12.871Z",
+      "applicationData": {
+        "name": "Internal Panel",
+        "apiKey": "_D75HvPlToDilS1vo7nqxy6RprZTRaMt",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-30T23:33:01.475Z",
+    "lastUpdated": "2025-11-30T23:33:12.872Z",
     "version": "1.0.0"
   }
 }
