@@ -205,14 +205,14 @@
       "maxUsers": 1,
       "currentUsers": 0,
       "validityDays": 1,
-      "expiresAt": "2025-11-25T03:37:58.324Z",
+      "expiresAt": "2025-12-25T03:37:58.324Z",
       "description": null,
       "isActive": true,
       "isBanned": false,
       "hwid": null,
       "hwidLockEnabled": true,
       "createdAt": "2025-11-24T03:37:58.324Z",
-      "updatedAt": "2025-11-24T03:37:58.324Z",
+      "updatedAt": "2025-12-01T03:28:46.699Z",
       "applicationData": {
         "name": "Silent Aim",
         "apiKey": "pc7LOSwo8l5hUsniwp68dZ0duA16JO-0",
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-11-30T23:33:21.434Z",
+    "lastUpdated": "2025-12-01T03:28:46.699Z",
     "version": "1.0.0"
   }
 }
