@@ -390,10 +390,33 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "-88fJH6nGvGch6zT",
+      "licenseKey": "Internal Panel-IDFD1X-LVBJ9K-8PGH0N",
+      "applicationId": 1761475572171,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2026-01-08T06:54:10.715Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "isPaused": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-12-09T06:54:10.715Z",
+      "updatedAt": "2025-12-09T06:54:10.715Z",
+      "applicationData": {
+        "name": "Internal Panel",
+        "apiKey": "_D75HvPlToDilS1vo7nqxy6RprZTRaMt",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-12-07T12:53:10.816Z",
+    "lastUpdated": "2025-12-09T06:54:10.715Z",
     "version": "1.0.0"
   }
 }
