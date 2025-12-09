@@ -413,10 +413,33 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "rr8XR5TLMY2KWQf6",
+      "licenseKey": "AdiCheats-V2ASP4-CUNL39-VCAPG7",
+      "applicationId": 1765266113591,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2026-01-08T07:44:06.114Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "isPaused": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-12-09T07:44:06.114Z",
+      "updatedAt": "2025-12-09T07:44:06.114Z",
+      "applicationData": {
+        "name": "Test Appling",
+        "apiKey": "razQqha84t2_0AX3T-j7PMCub-ZBZoin",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-12-09T06:54:10.715Z",
+    "lastUpdated": "2025-12-09T07:44:06.114Z",
     "version": "1.0.0"
   }
 }
