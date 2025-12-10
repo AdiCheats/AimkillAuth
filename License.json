@@ -413,10 +413,33 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "eJOuj_2sWrh_oTkD",
+      "licenseKey": "EXTERNAL PREMIUM-53GPNW-AAKX5W-OPM8EI",
+      "applicationId": 1765352749646,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2026-01-09T07:46:45.984Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "isPaused": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2025-12-10T07:46:45.984Z",
+      "updatedAt": "2025-12-10T07:46:45.984Z",
+      "applicationData": {
+        "name": "EXTERNAL PREMIUM",
+        "apiKey": "KApV7szV6c0VsvcGbZNv9xeCiCfIIjnt",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-12-09T07:44:30.864Z",
+    "lastUpdated": "2025-12-10T07:46:45.984Z",
     "version": "1.0.0"
   }
 }
