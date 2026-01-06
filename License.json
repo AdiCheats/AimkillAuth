@@ -482,10 +482,33 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "ysBaj8nTrNfbYXqV",
+      "licenseKey": "ADICHEATS-RBHI7Z-KXOZHF-N4R7G8",
+      "applicationId": 1762170848483,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2026-02-05T10:22:41.420Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "isPaused": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2026-01-06T10:22:41.420Z",
+      "updatedAt": "2026-01-06T10:22:41.420Z",
+      "applicationData": {
+        "name": "AimkillTest",
+        "apiKey": "80Dlrivjtb9g8rC1idn9BJeVrxQ7iiE6",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-01-01T08:38:49.277Z",
+    "lastUpdated": "2026-01-06T10:22:41.420Z",
     "version": "1.0.0"
   }
 }
