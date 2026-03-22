@@ -551,10 +551,33 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "3diDJXUOzYZrjCxt",
+      "licenseKey": "Silent Aim x86-G98GJP-F3V5M2-OA1X5R",
+      "applicationId": 1774156568693,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2026-04-21T07:56:17.663Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "isPaused": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2026-03-22T07:56:17.663Z",
+      "updatedAt": "2026-03-22T07:56:17.663Z",
+      "applicationData": {
+        "name": "Silent Aim x86",
+        "apiKey": "iupkf1Z5dhw9IWgInk-9lgSBX1BWbB4y",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-22T05:43:42.619Z",
+    "lastUpdated": "2026-03-22T07:56:17.664Z",
     "version": "1.0.0"
   }
 }
