@@ -540,11 +540,11 @@
       "description": null,
       "isActive": true,
       "isBanned": false,
-      "isPaused": false,
+      "isPaused": true,
       "hwid": null,
       "hwidLockEnabled": true,
       "createdAt": "2026-03-22T05:36:17.556Z",
-      "updatedAt": "2026-03-22T05:36:17.556Z",
+      "updatedAt": "2026-03-22T05:42:35.183Z",
       "applicationData": {
         "name": "Silent Aim x86",
         "apiKey": "iupkf1Z5dhw9IWgInk-9lgSBX1BWbB4y",
@@ -554,7 +554,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-03-22T05:36:17.556Z",
+    "lastUpdated": "2026-03-22T05:42:35.183Z",
     "version": "1.0.0"
   }
 }
