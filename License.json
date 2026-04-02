@@ -735,10 +735,33 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "oLJtTq7WxjNAR_4k",
+      "licenseKey": "Silent Aim x86-3B1CCP-YPLE8T-MXVTDS",
+      "applicationId": 1774156568693,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2026-05-02T06:45:25.544Z",
+      "description": "KRI",
+      "isActive": true,
+      "isBanned": false,
+      "isPaused": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2026-04-02T06:45:25.544Z",
+      "updatedAt": "2026-04-02T06:45:25.544Z",
+      "applicationData": {
+        "name": "Silent Aim x86",
+        "apiKey": "iupkf1Z5dhw9IWgInk-9lgSBX1BWbB4y",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-02T06:45:11.314Z",
+    "lastUpdated": "2026-04-02T06:45:25.544Z",
     "version": "1.0.0"
   }
 }
