@@ -781,10 +781,33 @@
         "version": "1.0",
         "isActive": true
       }
+    },
+    {
+      "id": "0iLcFNxe8eBv-PVo",
+      "licenseKey": "Normal FF Silent-DWXD5R-B896VA-8QLN8A",
+      "applicationId": 1774163771860,
+      "maxUsers": 1,
+      "currentUsers": 0,
+      "validityDays": 30,
+      "expiresAt": "2026-05-04T15:21:23.160Z",
+      "description": null,
+      "isActive": true,
+      "isBanned": false,
+      "isPaused": false,
+      "hwid": null,
+      "hwidLockEnabled": true,
+      "createdAt": "2026-04-04T15:21:23.160Z",
+      "updatedAt": "2026-04-04T15:21:23.160Z",
+      "applicationData": {
+        "name": "Normal FF Silent",
+        "apiKey": "eEoxzuFG9UmFcn0SjpDQ3ENsSqpS9Lh1",
+        "version": "1.0",
+        "isActive": true
+      }
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-04T07:00:30.363Z",
+    "lastUpdated": "2026-04-04T15:21:23.160Z",
     "version": "1.0.0"
   }
 }
